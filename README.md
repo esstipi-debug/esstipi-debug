@@ -8,7 +8,7 @@
 
 Chilean developer and entrepreneur based in Magallanes, focused on building tech products. Working on AI-powered applications, SaaS, logistics, and real estate.
 
--  **Location:** Magallanes, Chile
+
 -  **Stack:** JavaScript/TypeScript, Python, SQL
 -  **Cloud:** Google Cloud, Render, Railway, Vercel
 -  **AI/LLM:** Intelligent Agents, RAG, Fine-tuning
