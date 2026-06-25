@@ -6,7 +6,7 @@
 
 ## About Me
 
-Chilean developer and entrepreneur based in Magallanes, focused on building tech products. Working on AI-powered applications, SaaS, logistics, and real estate.
+Chilean developer and entrepreneur, focused on building tech products. Working on AI-powered applications, SaaS, and Supply Chain.
 
 
 -  **Stack:** JavaScript/TypeScript, Python, SQL
