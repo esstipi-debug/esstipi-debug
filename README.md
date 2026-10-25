@@ -31,6 +31,45 @@ My range was not built in a classroom or behind a corporate desk:
 
 ---
 
+## 🔄 Operating Methodology: Gemba Discovery Meets Deployment Strategy
+
+A fundamental failure mode in enterprise AI is the gap between software builders and operational floor reality. Forward Deployed Engineers (FDEs) often design from conference rooms assuming clean data, while traditional Lean consultants lack the software architecture skills to govern AI systems.
+
+I bridge this divide by uniting **frontline Gemba observation** (Toyota Production System, Kaizen, Genchi Genbutsu) with **end-to-end Deployment Strategy** (Palantir / Databricks model):
+
+```mermaid
+flowchart LR
+    subgraph GEMBA["1. Gemba Floor Discovery (The Ground Truth)"]
+        G1["Genchi Genbutsu: Go and see physical operations on night shifts"]
+        G2["Map unwritten human workarounds and shadow spreadsheets"]
+        G3["Identify friction with empathy: coaching vs punitive inspection"]
+    end
+
+    subgraph STRATEGY["2. Deployment Strategy (Systemic Outcomes)"]
+        S1["Translate floor friction into high-ROI operational use cases"]
+        S2["Write immutable data contracts and deterministic guardrails for FDEs"]
+        S3["Align frontline incentives with C-level P&L realization (EBIT / FCF)"]
+    end
+
+    GEMBA -->|Ground Truth Ingestion| STRATEGY
+```
+
+| Gemba Principle (Operational Method) | Deployment Strategist Role (Client Outcome) | Practical Supply Chain Translation |
+| :--- | :--- | :--- |
+| **Genchi Genbutsu** (*Go & see for yourself*) | Embed in the client's environment, observing real constraints. | Walk the docks, observe night picking, and inspect receiving discrepancies in person. |
+| **Ask "What is really happening?"** | Technical & commercial discovery: bridge stated pain vs. root cause. | Discover that broken orders are manufactured by flawed volume bonuses, not "random error." |
+| **Identify Waste (*Muda*) & Bottlenecks** | Quantify high-value use cases, risk, and dependencies. | Calculate carrying costs ($i_{\text{holding}}$), stockout rates, and blocked working capital. |
+| **Work with Frontline Operators** | Align frontline teams to engineering, security, and C-level. | Replace top-down slideware with physical simulation and peer-to-peer adoption. |
+| **Standardize & Improve (*Kaizen/PDCA*)** | Pilot tightly bounded MVPs, measure value, and exit hypercare. | Deploy deterministic decision gates and hand off operating protocols to client teams. |
+
+### The Philosophy: The Art of Learning on the Floor
+Drawing from Josh Waitzkin’s *The Art of Learning*, true operational mastery is not about accumulating superficial tricks or complicated jargon:
+* **Making Smaller Circles:** Deconstructing the micro-mechanics of every physical movement and transaction until the root constraint becomes completely obvious.
+* **The Soft Zone:** Maintaining clear judgment, presence, and calm focus amidst operational chaos, shift emergencies, and complex system cutovers.
+* **Investment in Loss:** Dissecting operational failures forensically without defensiveness to build invariant guardrails that make the system unshakeable in production.
+
+---
+
 ## 📚 Master Monograph: The Deployment Chasm
 
 ### [The Deployment Chasm: Definitive Edition](https://github.com/esstipi-debug/mellon/releases/download/v2.0.0/THE-DEPLOYMENT-CHASM-EN-OFFICIAL.pdf) *(117-Page Master Monograph · Protected PDF)*
@@ -66,7 +105,7 @@ Control plane architecture designed to reconcile commercial silos and supply cha
 ## 🌐 Breadth of Field Experience Across Industries
 
 * **Agricultural & Cold-Chain Logistics:** Modeled Arrhenius/Q10 degradation kinetics and multi-custody handovers to attribute thermal damage and dynamically route export perishables under strict shelf-life feasibility.
-* **Industrial Warehousing & Tier-1 Migrations:** Led floor-level cutovers of major facilities (including 50,000 SKUs migrated to Manhattan WMS), training unionized shift operators on live racks and cutting cycle times by 20% with zero plant downtime.
+* **Industrial Warehousing & Tier-1 Migrations:** Led floor-level cutovers of major facilities (including a 50,000-SKU master distribution center for a tier-1 global equipment manufacturer in Melbourne migrated to Manhattan WMS), training unionized shift operators on live racks and cutting cycle times by 20% with zero plant downtime.
 * **DTC, Wholesale & Retail P&L Management:** Managed multi-million-dollar consolidated commercial operations, liberating trapped working capital by synchronizing purchasing rules with physical throughput.
 * **Healthcare Logistics & Waitlist Forensic Engineering:** Formulated logistics optimization models for surgical waitlists and hospital supply chains (the "last 50 meters" of clinical distribution).
 * **Deterministic Software Boundaries:** Designed and verified the interface between probabilistic AI models and enterprise transactional databases across 5 distinct domains—enforcing business invariants through structural verification rather than fragile prompts.
