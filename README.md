@@ -1,13 +1,33 @@
 # Marcos Stipicich
 ### Deployment Strategist · Supply Chain & Operational Intelligence
 
-> *"In ambiguous and shifting environments, breadth with deep roots wins. The problems that truly matter no longer fit inside a single discipline."*
+> *"In kind environments, where rules are fixed and feedback is immediate, machines win. In wicked environments—where patterns are messy, rules are unwritten, and human incentives collide—breadth with deep roots wins."*  
+> — Adapted from David Epstein (*Range*) and frontline practice.
 
-I operate at the intersection of physical operations, systems architecture, and unit economics. 
+I operate at the intersection of physical operations, systems architecture, and unit economics.
 
-Real operational intelligence cannot be developed from behind a desk or within a single silo. Over the past decade, my work has spanned the physical realities of diverse industries and territories—from agricultural soil, crop inputs, and perishable cold chains, through heavy equipment distribution centers and high-velocity retail, to software contracts and the CFO’s balance sheet. 
+---
 
-Understanding how frontline operators work, the exact tools they touch, the incentives that drive their decisions, and how that translates into cash flow is what turns strategy into systems that actually hold in production.
+## 🧠 The AI Era: From Knowledge Accumulation to Discernment
+
+We have entered an era where the sheer accumulation of domain knowledge is commoditized. An AI model can summarize a textbook, retrieve an API, or synthesize a market report in seconds. 
+
+In this landscape, competitive advantage is no longer about hoarding answers. It belongs to **range**:
+1. **Knowing what questions to ask:** Framing the real, unstated problem rather than optimizing the wrong dashboard.
+2. **Discernment & Judgment:** Recognizing weak signals, sniffing out bullshit metrics, and knowing precisely where a probabilistic model must *never* be allowed to make a decision.
+3. **Cross-Domain Synthesis:** Connecting physical realities (the soil, the tools, worker psychology) to deterministic data contracts and the CFO's balance sheet.
+4. **Radical Clarity:** True intelligence is not about hiding behind jargon or making things complicated. It is about understanding a system so deeply that you can bring simplicity, actionable contracts, and human adoption to what once seemed chaotic.
+
+---
+
+## 🌾 The Roots of Range: From the Estancia to Enterprise Systems
+
+My range was not built in a classroom or behind a corporate desk:
+
+* **Reading Weak Signals in the Field:** Raised in agricultural and livestock operations (sheep farming in southern territories), learning from childhood to read weak signals—shifting winds, pasture humidity, animal demeanor—to anticipate seasonal survival before reports existed. That same muscle allows me today to walk a warehouse at 02:00 AM and detect why a WMS or AI deployment is about to fail before management sees the metric drop.
+* **Respect for the Floor (*Gemba*):** Sharing the table and the shearing sheds with frontline laborers taught me an unshakeable rule: *the operator on the floor holds practical truths that the executive manual ignores*. Real authority is earned by treating the operator as a peer, not by imposing top-down slideware.
+* **Under the Hood (Curiosity & C):** Tearing apart old computers as a kid evolved into programming in C: the stubborn need to understand pointers, memory, and physical mechanics rather than trusting opaque abstractions.
+* **Cross-Language, Cross-Silo Translation:** Learning English at 25 without translating taught me that language shapes how organizations think. Today, I translate seamlessly between three groups that rarely understand each other: the frontline floor worker, the software engineer, and the CFO.
 
 ---
 
@@ -15,7 +35,7 @@ Understanding how frontline operators work, the exact tools they touch, the ince
 
 ### [The Deployment Chasm: Edición Definitiva](https://github.com/esstipi-debug/mellon/tree/master/papers) *(117-page Definitive Monograph)*
 A comprehensive treatise on why enterprise systems, automation, and frontline AI initiatives collapse in operations—and how deterministic architecture bridges the gap.
-* **Frontline Sociology & Campbell’s Law:** Deconstructing the root causes of operational boycotts and misaligned incentives across operations, procurement, and commercial teams.
+* **Frontline Sociology & Campbell’s Law:** Deconstructing the root causes of operational boycotts and perverse incentives (e.g., volume bonuses subsidizing order defects).
 * **The Three-Plane Architecture:** Strict separation between probabilistic LLM reasoning, deterministic invariant verification, and human operational authority.
 * **Economic Transmission Engine:** Econometric modeling (Staggered DiD) translating floor-level bottleneck relief directly into working capital velocity, FCF realization, and EBITDA protection.
 
