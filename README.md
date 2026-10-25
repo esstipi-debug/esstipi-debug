@@ -20,11 +20,11 @@ In this landscape, competitive advantage is no longer about hoarding answers. It
 
 ---
 
-## 🌾 The Roots of Range: From the Estancia to Enterprise Systems
+## 🌾 The Roots of Range: From the Sheep Ranch to Enterprise Systems
 
 My range was not built in a classroom or behind a corporate desk:
 
-* **Reading Weak Signals in the Field:** Raised in agricultural and livestock operations (sheep farming in southern territories), learning from childhood to read weak signals—shifting winds, pasture humidity, animal demeanor—to anticipate seasonal survival before reports existed. That same muscle allows me today to walk a warehouse at 02:00 AM and detect why a WMS or AI deployment is about to fail before management sees the metric drop.
+* **Reading Weak Signals in the Field:** Raised on an extensive sheep ranch in remote southern territories, learning from childhood to read weak signals—shifting winds, pasture humidity, animal demeanor—to anticipate seasonal survival before reports existed. That same muscle allows me today to walk a warehouse at 02:00 AM and detect why a WMS or AI deployment is about to fail before management sees the metric drop.
 * **Respect for the Floor (*Gemba*):** Sharing the table and the shearing sheds with frontline laborers taught me an unshakeable rule: *the operator on the floor holds practical truths that the executive manual ignores*. Real authority is earned by treating the operator as a peer, not by imposing top-down slideware.
 * **Under the Hood (Curiosity & C):** Tearing apart old computers as a kid evolved into programming in C: the stubborn need to understand pointers, memory, and physical mechanics rather than trusting opaque abstractions.
 * **Cross-Language, Cross-Silo Translation:** Learning English at 25 without translating taught me that language shapes how organizations think. Today, I translate seamlessly between three groups that rarely understand each other: the frontline floor worker, the software engineer, and the CFO.
@@ -33,14 +33,16 @@ My range was not built in a classroom or behind a corporate desk:
 
 ## 📚 Master Monograph: The Deployment Chasm
 
-### [The Deployment Chasm: Edición Definitiva](https://github.com/esstipi-debug/mellon/tree/master/papers) *(117-page Definitive Monograph)*
+### [The Deployment Chasm: Definitive Edition](https://github.com/esstipi-debug/mellon/blob/master/papers/THE-DEPLOYMENT-CHASM-EN-OFFICIAL.md) *(117-page Master Monograph)*
 A comprehensive treatise on why enterprise systems, automation, and frontline AI initiatives collapse in operations—and how deterministic architecture bridges the gap.
+
+* **[Read Full 117-Page Manuscript Online (.md)](https://github.com/esstipi-debug/mellon/blob/master/papers/THE-DEPLOYMENT-CHASM-EN-OFFICIAL.md)** · **[📥 Download Definitive PDF (7.8 MB)](https://github.com/esstipi-debug/mellon/releases/download/v2.0.0/THE-DEPLOYMENT-CHASM-EN-OFFICIAL.pdf)**
 * **Frontline Sociology & Campbell’s Law:** Deconstructing the root causes of operational boycotts and perverse incentives (e.g., volume bonuses subsidizing order defects).
 * **The Three-Plane Architecture:** Strict separation between probabilistic LLM reasoning, deterministic invariant verification, and human operational authority.
 * **Economic Transmission Engine:** Econometric modeling (Staggered DiD) translating floor-level bottleneck relief directly into working capital velocity, FCF realization, and EBITDA protection.
 
 > **Executive Field Specification (24 pages):**  
-> For executive committees, CFOs, and engineering leads, the core mechanisms, proofs, and transition tables of the 117-page monograph are condensed into the [Field Architecture Paper](https://github.com/esstipi-debug/mellon/tree/master/papers/THE-DEPLOYMENT-CHASM-FIELD-ARCHITECTURE-PAPER-EN.pdf) (accompanied by the 8-minute [Executive Brief](https://github.com/esstipi-debug/mellon/blob/master/EXECUTIVE-BRIEF-DEPLOYED-STRATEGIST.md)).
+> For executive committees, CFOs, and engineering leads, the core mechanisms, proofs, and transition tables of the 117-page monograph are condensed into the [Field Architecture Paper](https://github.com/esstipi-debug/mellon/blob/master/papers/THE-DEPLOYMENT-CHASM-FIELD-ARCHITECTURE-PAPER-EN.pdf) (accompanied by the 8-minute [Executive Brief](https://github.com/esstipi-debug/mellon/blob/master/EXECUTIVE-BRIEF-DEPLOYED-STRATEGIST.md)).
 
 ---
 
