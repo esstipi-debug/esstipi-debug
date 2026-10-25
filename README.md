@@ -33,15 +33,15 @@ My range was not built in a classroom or behind a corporate desk:
 
 ## 📚 Master Monograph: The Deployment Chasm
 
-### [The Deployment Chasm: Definitive Edition](https://github.com/esstipi-debug/mellon/blob/master/papers/THE-DEPLOYMENT-CHASM-EN-OFFICIAL.md) *(117-page Master Monograph)*
+### [The Deployment Chasm: Definitive Edition](https://github.com/esstipi-debug/mellon/releases/download/v2.0.0/THE-DEPLOYMENT-CHASM-EN-OFFICIAL.pdf) *(117-Page Master Monograph · Protected PDF)*
 A comprehensive treatise on why enterprise systems, automation, and frontline AI initiatives collapse in operations—and how deterministic architecture bridges the gap.
 
-* **[Read Full 117-Page Manuscript Online (.md)](https://github.com/esstipi-debug/mellon/blob/master/papers/THE-DEPLOYMENT-CHASM-EN-OFFICIAL.md)** · **[📥 Download Definitive PDF (7.8 MB)](https://github.com/esstipi-debug/mellon/releases/download/v2.0.0/THE-DEPLOYMENT-CHASM-EN-OFFICIAL.pdf)**
+* **[Executive Synopsis & Table of Contents](https://github.com/esstipi-debug/mellon/tree/master/papers)** · **[📥 Download Definitive Monograph (117 Pages · Protected PDF)](https://github.com/esstipi-debug/mellon/releases/download/v2.0.0/THE-DEPLOYMENT-CHASM-EN-OFFICIAL.pdf)**
 * **Frontline Sociology & Campbell’s Law:** Deconstructing the root causes of operational boycotts and perverse incentives (e.g., volume bonuses subsidizing order defects).
 * **The Three-Plane Architecture:** Strict separation between probabilistic LLM reasoning, deterministic invariant verification, and human operational authority.
 * **Economic Transmission Engine:** Econometric modeling (Staggered DiD) translating floor-level bottleneck relief directly into working capital velocity, FCF realization, and EBITDA protection.
 
-> **Executive Field Specification (24 pages):**  
+> **Executive Field Specification (24 Pages):**  
 > For executive committees, CFOs, and engineering leads, the core mechanisms, proofs, and transition tables of the 117-page monograph are condensed into the [Field Architecture Paper](https://github.com/esstipi-debug/mellon/blob/master/papers/THE-DEPLOYMENT-CHASM-FIELD-ARCHITECTURE-PAPER-EN.pdf) (accompanied by the 8-minute [Executive Brief](https://github.com/esstipi-debug/mellon/blob/master/EXECUTIVE-BRIEF-DEPLOYED-STRATEGIST.md)).
 
 ---
