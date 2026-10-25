@@ -1,45 +1,46 @@
 # Marcos Stipicich
-### Deployment Strategist · Operational Intelligence
+### Deployment Strategist & Supply Chain Manager · Operational Intelligence
 
-> *"A system nobody uses is indistinguishable from a system nobody built."*  
-> The dashboard gets trusted; the floor doesn't get checked. Enterprise systems and AI initiatives collapse at the seam between what the screen claims and what frontline operators actually do at 02:00 AM. I work in that gap: reconciling physical floor incentives, deterministic software contracts, and unit economics.
+Background running a **$30M DTC/wholesale P&L** and leading **tier-1 WMS cutovers**.
+
+I look at supply chains from the physical soil to the balance sheet. A real supply chain manager doesn't sit behind a screen: you have to walk the entire chain—from where the potatoes are planted and what agricultural inputs were used, through how workers operate and what tools they hold at every handover, to the warehouse dock, the software contracts, and the CFO's P&L. Understanding every granular, mechanical detail of the physical chain is what gives you unique insight to diagnose bottlenecks and build systems that actually work in production.
 
 ---
 
-## ⚡ Core Operational Assets
+## 📄 Master Whitepaper: The Deployment Chasm
 
-### 1. [Mellon & Ithildin](https://github.com/esstipi-debug/mellon) — Enterprise Deployment Framework
-An end-to-end framework and field doctrine addressing why enterprise AI fails in frontline operations, and how to govern it with deterministic guardrails.
-* **[Executive Brief](https://github.com/esstipi-debug/mellon/blob/master/EXECUTIVE-BRIEF-DEPLOYED-STRATEGIST.md):** 8-minute board-level brief on frontline failure modes, I/T/C cross-silo distortion, and operational boycott neutralization.
-* **[Field Architecture Paper](https://github.com/esstipi-debug/mellon/tree/master/papers):** Formal 24-page specification of the Three-Plane Architecture, delta projections, and empirical audit protocols.
-* **[Interactive Dojo](https://esstipi-debug.github.io/mellon):** Client-side simulation of inventory mechanics and adoption dynamics.
+### [The Deployment Chasm: Field Architecture & Governance](https://github.com/esstipi-debug/mellon/tree/master/papers)
+*A formal 24-page executive monograph and technical specification addressing why enterprise systems and frontline AI initiatives collapse in operations—and how to govern them with deterministic mechanisms.*
 
-### 2. [Kern](https://github.com/esstipi-debug/kern) — Deterministic SCM Engine & Claude MCP Server
-High-precision analytical engine and agentic orchestrator for enterprise supply chain operations, compatible with the Anthropic Model Context Protocol (MCP).
+* **Frontline Gemba Sociology:** Neutralizing operational boycotts and realigning perverse frontline incentives (e.g., volume bonuses subsidizing order defects).
+* **The Three-Plane Architecture:** Strict separation between probabilistic LLM reasoning, deterministic invariant verification (pure math & ERP transaction tables), and human operational authority.
+* **Economic Transmission:** Direct mathematical translation of floor-level cycle time and bottleneck relief into working capital reduction, FCF realization, and EBITDA protection.
+
+---
+
+## ⚡ Core Operational Systems
+
+### 1. [Kern](https://github.com/esstipi-debug/kern) — Deterministic SCM Engine & Claude MCP Server
+High-precision analytical engine and agentic orchestrator for enterprise supply chain operations, built natively for Anthropic's Model Context Protocol (MCP).
 * **Anti-Hallucination Invariant:**
   $$\textbf{LLMs reason, interpret, and translate} \quad \longleftrightarrow \quad \textbf{Deterministic software computes, bounds, and gates}$$
-* **Pure Functional Mathematics:** Closed-form inventory policies, reorder thresholds, and capacity bounds tested against **9,100+ automated test cases**.
-* **Safe-Staging Writebacks:** Zero direct mutations to systems of record. Operations staged with 900s TTLs, HMAC cryptographic verification, and Shopify inventory sync.
+* **Pure Functional Mathematics:** Closed-form inventory policies, reorder thresholds, and capacity bounds backed by **9,100+ automated test cases**.
+* **Safe-Staging Writebacks:** Zero direct mutations to systems of record. Staged diffs with 900s TTLs, HMAC cryptographic verification, and live Shopify inventory reconciliation.
+
+### 2. [Mellon & Ithildin](https://github.com/esstipi-debug/mellon) — Enterprise Deployment Framework
+Field toolkit, Pokayoke state machine contracts (Pydantic v2), and econometric audit harnesses (Staggered DiD) for physical operations. Includes the [Executive Brief](https://github.com/esstipi-debug/mellon/blob/master/EXECUTIVE-BRIEF-DEPLOYED-STRATEGIST.md) and client-side [Interactive Simulator / Dojo](https://esstipi-debug.github.io/mellon).
+
+### 3. NoSilo — Cross-Silo Operational Control
+Architecture designed to resolve the chronic friction between Marketing Ops and Supply Chain: preventing ad campaigns from scaling traffic onto stockout SKUs via automated *Launch-Readiness Gates* and available-to-promise (ATP) inventory checks.
 
 ---
 
 ## 🏭 Operating Grounding & Track Record
 
-I operate at the intersection of supply chain physics, frontline sociology, and software contracts:
-
 * **P&L Ownership:** Led a **USD $30M DTC and wholesale P&L** (300% YoY expansion, ~$5M freed in trapped working capital).
-* **Tier-1 Warehouse Cutovers:** Direct floor leadership during high-stakes ERP/WMS migrations (e.g., cutover of **50,000 SKUs to Manhattan WMS** at AGCO Melbourne; training 23 shift operators, achieving -20% cycle time).
-* **Incentive Alignment:** Replaced perverse volume bonuses (which incentivized mixed and damaged orders) with binary quality gates tied to zero customer complaints.
-* **Architecture over Prompts:** Built the boundary between language models and deterministic domain engines 5 times across distinct domains—using raw HTTP/SDK calls, typed Pydantic contracts, and zero bloated frameworks.
-
----
-
-## 🧭 The 90-Day Deployment Doctrine
-
-1. **Week 1–2 (Gemba Walk & P&L Audit):** Walk the floor on night shifts, locate the manual spreadsheets and workarounds, and map the cash flow leaks.
-2. **Week 3–4 (Contract Hardening):** Formalize the business rules into immutable schemas with explicit failure modes before writing integration code.
-3. **Week 5–8 (Rapid Redesign & Staging):** Deploy decision support tools with automated validation gates and dry-run execution.
-4. **Week 9–12 (adoption & Hypercare Exit):** Monitor real frontline compliance, eliminate shadow processes, and verify EBIT / FCF realization.
+* **Tier-1 Warehouse Cutovers:** Direct floor leadership during high-stakes migrations (e.g., cutover of **50,000 SKUs to Manhattan WMS** at AGCO Melbourne; training 23 shift operators, achieving -20% cycle time).
+* **Ground-Level Incentive Design:** Replaced perverse volume bonuses (which incentivized mixed and damaged orders) with binary quality gates tied to zero customer complaints.
+* **Deterministic Boundary Design:** Implemented verifiable boundaries between language models and transactional systems 5 times across distinct domains—using typed Pydantic contracts and zero bloated orchestration frameworks.
 
 ---
 
