@@ -1,24 +1,30 @@
 # Marcos Stipicich
-### Deployment Strategist & Supply Chain Manager · Operational Intelligence
+### Deployment Strategist · Supply Chain & Operational Intelligence
 
-Background running a **$30M DTC/wholesale P&L** and leading **tier-1 WMS cutovers**.
+> *"In ambiguous and shifting environments, breadth with deep roots wins. The problems that truly matter no longer fit inside a single discipline."*
 
-I look at supply chains from the physical soil to the balance sheet. A real supply chain manager doesn't sit behind a screen: you have to walk the entire chain—from where the potatoes are planted and what agricultural inputs were used, through how workers operate and what tools they hold at every handover, to the warehouse dock, the software contracts, and the CFO's P&L. Understanding every granular, mechanical detail of the physical chain is what gives you unique insight to diagnose bottlenecks and build systems that actually work in production.
+I operate at the intersection of physical operations, systems architecture, and unit economics. 
 
----
+Real operational intelligence cannot be developed from behind a desk or within a single silo. Over the past decade, my work has spanned the physical realities of diverse industries and territories—from agricultural soil, crop inputs, and perishable cold chains, through heavy equipment distribution centers and high-velocity retail, to software contracts and the CFO’s balance sheet. 
 
-## 📄 Master Whitepaper: The Deployment Chasm
-
-### [The Deployment Chasm: Field Architecture & Governance](https://github.com/esstipi-debug/mellon/tree/master/papers)
-*A formal 24-page executive monograph and technical specification addressing why enterprise systems and frontline AI initiatives collapse in operations—and how to govern them with deterministic mechanisms.*
-
-* **Frontline Gemba Sociology:** Neutralizing operational boycotts and realigning perverse frontline incentives (e.g., volume bonuses subsidizing order defects).
-* **The Three-Plane Architecture:** Strict separation between probabilistic LLM reasoning, deterministic invariant verification (pure math & ERP transaction tables), and human operational authority.
-* **Economic Transmission:** Direct mathematical translation of floor-level cycle time and bottleneck relief into working capital reduction, FCF realization, and EBITDA protection.
+Understanding how frontline operators work, the exact tools they touch, the incentives that drive their decisions, and how that translates into cash flow is what turns strategy into systems that actually hold in production.
 
 ---
 
-## ⚡ Core Operational Systems
+## 📚 Master Monograph: The Deployment Chasm
+
+### [The Deployment Chasm: Edición Definitiva](https://github.com/esstipi-debug/mellon/tree/master/papers) *(117-page Definitive Monograph)*
+A comprehensive treatise on why enterprise systems, automation, and frontline AI initiatives collapse in operations—and how deterministic architecture bridges the gap.
+* **Frontline Sociology & Campbell’s Law:** Deconstructing the root causes of operational boycotts and misaligned incentives across operations, procurement, and commercial teams.
+* **The Three-Plane Architecture:** Strict separation between probabilistic LLM reasoning, deterministic invariant verification, and human operational authority.
+* **Economic Transmission Engine:** Econometric modeling (Staggered DiD) translating floor-level bottleneck relief directly into working capital velocity, FCF realization, and EBITDA protection.
+
+> **Executive Field Specification (24 pages):**  
+> For executive committees, CFOs, and engineering leads, the core mechanisms, proofs, and transition tables of the 117-page monograph are condensed into the [Field Architecture Paper](https://github.com/esstipi-debug/mellon/tree/master/papers/THE-DEPLOYMENT-CHASM-FIELD-ARCHITECTURE-PAPER-EN.pdf) (accompanied by the 8-minute [Executive Brief](https://github.com/esstipi-debug/mellon/blob/master/EXECUTIVE-BRIEF-DEPLOYED-STRATEGIST.md)).
+
+---
+
+## ⚡ Core Operational Systems & Architecture
 
 ### 1. [Kern](https://github.com/esstipi-debug/kern) — Deterministic SCM Engine & Claude MCP Server
 High-precision analytical engine and agentic orchestrator for enterprise supply chain operations, built natively for Anthropic's Model Context Protocol (MCP).
@@ -28,19 +34,20 @@ High-precision analytical engine and agentic orchestrator for enterprise supply 
 * **Safe-Staging Writebacks:** Zero direct mutations to systems of record. Staged diffs with 900s TTLs, HMAC cryptographic verification, and live Shopify inventory reconciliation.
 
 ### 2. [Mellon & Ithildin](https://github.com/esstipi-debug/mellon) — Enterprise Deployment Framework
-Field toolkit, Pokayoke state machine contracts (Pydantic v2), and econometric audit harnesses (Staggered DiD) for physical operations. Includes the [Executive Brief](https://github.com/esstipi-debug/mellon/blob/master/EXECUTIVE-BRIEF-DEPLOYED-STRATEGIST.md) and client-side [Interactive Simulator / Dojo](https://esstipi-debug.github.io/mellon).
+Field toolkit, Pokayoke state machine contracts (Pydantic v2), and econometric audit harnesses for physical operations. Includes an interactive client-side [Dojo Simulator](https://esstipi-debug.github.io/mellon).
 
-### 3. NoSilo — Cross-Silo Operational Control
-Architecture designed to resolve the chronic friction between Marketing Ops and Supply Chain: preventing ad campaigns from scaling traffic onto stockout SKUs via automated *Launch-Readiness Gates* and available-to-promise (ATP) inventory checks.
+### 3. [NoSilo](https://github.com/esstipi-debug/nosilo) — Cross-Silo Decision Governance
+Control plane architecture designed to reconcile commercial silos and supply chain constraints, enforcing automated *Launch-Readiness Gates* between ad spending and real warehouse stock availability.
 
 ---
 
-## 🏭 Operating Grounding & Track Record
+## 🌐 Breadth of Field Experience Across Industries
 
-* **P&L Ownership:** Led a **USD $30M DTC and wholesale P&L** (300% YoY expansion, ~$5M freed in trapped working capital).
-* **Tier-1 Warehouse Cutovers:** Direct floor leadership during high-stakes migrations (e.g., cutover of **50,000 SKUs to Manhattan WMS** at AGCO Melbourne; training 23 shift operators, achieving -20% cycle time).
-* **Ground-Level Incentive Design:** Replaced perverse volume bonuses (which incentivized mixed and damaged orders) with binary quality gates tied to zero customer complaints.
-* **Deterministic Boundary Design:** Implemented verifiable boundaries between language models and transactional systems 5 times across distinct domains—using typed Pydantic contracts and zero bloated orchestration frameworks.
+* **Agricultural & Cold-Chain Logistics:** Modeled Arrhenius/Q10 degradation kinetics and multi-custody handovers to attribute thermal damage and dynamically route export perishables under strict shelf-life feasibility.
+* **Industrial Warehousing & Tier-1 Migrations:** Led floor-level cutovers of major facilities (including 50,000 SKUs migrated to Manhattan WMS), training unionized shift operators on live racks and cutting cycle times by 20% with zero plant downtime.
+* **DTC, Wholesale & Retail P&L Management:** Managed multi-million-dollar consolidated commercial operations, liberating trapped working capital by synchronizing purchasing rules with physical throughput.
+* **Healthcare Logistics & Waitlist Forensic Engineering:** Formulated logistics optimization models for surgical waitlists and hospital supply chains (the "last 50 meters" of clinical distribution).
+* **Deterministic Software Boundaries:** Designed and verified the interface between probabilistic AI models and enterprise transactional databases across 5 distinct domains—enforcing business invariants through structural verification rather than fragile prompts.
 
 ---
 
