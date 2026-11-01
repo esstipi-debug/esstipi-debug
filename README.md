@@ -81,10 +81,10 @@ The economics of broken records: why WMS cutovers and AI break on the dock, and 
 
 ## 📚 Master Monograph: The Deployment Chasm
 
-### [The Deployment Chasm: Definitive Edition](https://github.com/esstipi-debug/mellon/releases/download/v2.0.0/THE-DEPLOYMENT-CHASM-EN-OFFICIAL.pdf) *(117-Page Master Monograph · Protected PDF)*
+### The Deployment Chasm *(manuscript in revision)*
 A comprehensive treatise on why enterprise systems, automation, and frontline AI initiatives collapse in operations—and how deterministic architecture bridges the gap.
 
-* **[Executive Synopsis & Table of Contents](https://github.com/esstipi-debug/mellon/tree/master/papers)** · **[📥 Download Definitive Monograph (117 Pages · Protected PDF)](https://github.com/esstipi-debug/mellon/releases/download/v2.0.0/THE-DEPLOYMENT-CHASM-EN-OFFICIAL.pdf)**
+* **[Executive Synopsis & Table of Contents](https://github.com/esstipi-debug/mellon/tree/master/papers)**
 * **Frontline Sociology & Campbell’s Law:** Deconstructing the root causes of operational boycotts and perverse incentives (e.g., volume bonuses subsidizing order defects).
 * **The Three-Plane Architecture:** Strict separation between probabilistic LLM reasoning, deterministic invariant verification, and human operational authority.
 * **Economic Transmission Engine:** Econometric modeling (Staggered DiD) translating floor-level bottleneck relief directly into working capital velocity, FCF realization, and EBITDA protection.
