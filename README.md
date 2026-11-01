@@ -1,5 +1,5 @@
 # Marcos Stipicich
-### Deployment Strategist · Supply Chain & Operational Intelligence
+### Supply Chain & Operations × Deployment Strategy
 
 > *"In kind environments, where rules are fixed and feedback is immediate, machines win. In wicked environments—where patterns are messy, rules are unwritten, and human incentives collide—breadth with deep roots wins."*  
 > — Adapted from David Epstein (*Range*) and frontline practice.
@@ -73,24 +73,14 @@ Drawing from Josh Waitzkin’s *The Art of Learning*, true operational mastery i
 ## 📄 Field Whitepaper: Dirty Data Is a Rational Answer
 
 ### [Dirty Data Is a Rational Answer](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/dirty-data-is-a-rational-answer.pdf) *(29 pages · PDF)*
-The economics of broken records: why WMS cutovers and AI break on the dock, and how to deploy with human incentives instead of against them.
+**The economics of broken records:** why WMS cutovers and AI break on the dock, and how to deploy with human incentives instead of against them.
 
-* **[📄 Open the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/dirty-data-is-a-rational-answer.pdf)** · **[View on GitHub](papers/dirty-data-is-a-rational-answer.pdf)**
+> *"A better algorithm cannot fix a record that is distorted where it is written."*
 
----
+In one retailer's audits, 65% of nearly 370,000 inventory records did not match the shelf. The paper's argument: accuracy costs the person typing the record time now, while the error costs someone else money later.
 
-## 📚 Master Monograph: The Deployment Chasm
-
-### The Deployment Chasm *(manuscript in revision)*
-A comprehensive treatise on why enterprise systems, automation, and frontline AI initiatives collapse in operations—and how deterministic architecture bridges the gap.
-
-* **[Executive Synopsis & Table of Contents](https://github.com/esstipi-debug/mellon/tree/master/papers)**
-* **Frontline Sociology & Campbell’s Law:** Deconstructing the root causes of operational boycotts and perverse incentives (e.g., volume bonuses subsidizing order defects).
-* **The Three-Plane Architecture:** Strict separation between probabilistic LLM reasoning, deterministic invariant verification, and human operational authority.
-* **Economic Transmission Engine:** Econometric modeling (Staggered DiD) translating floor-level bottleneck relief directly into working capital velocity, FCF realization, and EBITDA protection.
-
-> **Executive Field Specification (24 Pages):**  
-> For executive committees, CFOs, and engineering leads, the core mechanisms, proofs, and transition tables of the 117-page monograph are condensed into the [Field Architecture Paper](https://github.com/esstipi-debug/mellon/blob/master/papers/THE-DEPLOYMENT-CHASM-FIELD-ARCHITECTURE-PAPER-EN.pdf) (accompanied by the 8-minute [Executive Brief](https://github.com/esstipi-debug/mellon/blob/master/EXECUTIVE-BRIEF-DEPLOYED-STRATEGIST.md)).
+* **[📄 Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/dirty-data-is-a-rational-answer.pdf)** · **[View in repository](papers/dirty-data-is-a-rational-answer.pdf)**
+* **Core topics:** What breaks in a Tier-1 WMS cutover · The arithmetic of the shortcut (Becker, Kerr, Grudin) · Bainbridge's ironies of automation · A two-level architecture designed so the correct record becomes the fastest path · Where AI fits, and where it never writes.
 
 ---
 
@@ -100,13 +90,13 @@ A comprehensive treatise on why enterprise systems, automation, and frontline AI
 High-precision analytical engine and agentic orchestrator for enterprise supply chain operations, built natively for Anthropic's Model Context Protocol (MCP).
 * **Anti-Hallucination Invariant:**
   $$\textbf{LLMs reason, interpret, and translate} \quad \longleftrightarrow \quad \textbf{Deterministic software computes, bounds, and gates}$$
-* **Pure Functional Mathematics:** Closed-form inventory policies, reorder thresholds, and capacity bounds backed by **9,100+ automated test cases**.
-* **Safe-Staging Writebacks:** Zero direct mutations to systems of record. Staged diffs with 900s TTLs, HMAC cryptographic verification, and live Shopify inventory reconciliation.
+* **Pure Functional Mathematics:** Closed-form inventory policies, reorder thresholds, and capacity bounds backed by **9,350+ automated test cases**.
+* **Safe-Staging Writebacks:** Zero direct mutations to systems of record. Staged diffs with 900s TTLs, HMAC cryptographic verification, and a Shopify inventory connector.
 
 ### 2. [Mellon & Ithildin](https://github.com/esstipi-debug/mellon) — Enterprise Deployment Framework
 Field toolkit, Pokayoke state machine contracts (Pydantic v2), and econometric audit harnesses for physical operations. Includes an interactive client-side [Dojo Simulator](https://esstipi-debug.github.io/mellon).
 
-### 3. [NoSilo](https://github.com/esstipi-debug/nosilo) — Cross-Silo Decision Governance
+### 3. NoSilo — Cross-Silo Decision Governance *(private repository)*
 Control plane architecture designed to reconcile commercial silos and supply chain constraints, enforcing automated *Launch-Readiness Gates* between ad spending and real warehouse stock availability.
 
 ---
@@ -114,15 +104,14 @@ Control plane architecture designed to reconcile commercial silos and supply cha
 ## 🌐 Breadth of Field Experience Across Industries
 
 * **Agricultural & Cold-Chain Logistics:** Modeled Arrhenius/Q10 degradation kinetics and multi-custody handovers to attribute thermal damage and dynamically route export perishables under strict shelf-life feasibility.
-* **Industrial Warehousing & Tier-1 Migrations:** Led floor-level cutovers of major facilities (including a 50,000-SKU master distribution center for a tier-1 global equipment manufacturer in Melbourne migrated to Manhattan WMS), training unionized shift operators on live racks and cutting cycle times by 20% with zero plant downtime.
-* **DTC, Wholesale & Retail P&L Management:** Managed multi-million-dollar consolidated commercial operations, liberating trapped working capital by synchronizing purchasing rules with physical throughput.
-* **Healthcare Logistics & Waitlist Forensic Engineering:** Formulated logistics optimization models for surgical waitlists and hospital supply chains (the "last 50 meters" of clinical distribution).
-* **Deterministic Software Boundaries:** Designed and verified the interface between probabilistic AI models and enterprise transactional databases across 5 distinct domains—enforcing business invariants through structural verification rather than fragile prompts.
+* **Industrial Warehousing & Tier-1 Migrations:** Supervised floor operations through a 50,000-SKU Tier-1 WMS cutover (custom platform to Manhattan) at a global equipment manufacturer's parts distribution centre in Melbourne, from operator training through go-live and hypercare; order processing time fell 20% after cutover.
+* **DTC, Wholesale & Retail P&L Management:** Owned the P&L of a USD 30M cross-border e-commerce portfolio through 300% year-on-year growth; a data-driven inventory strategy released roughly USD 5M of inventory.
+* **Deterministic Software Boundaries:** Built the boundary between AI models and transactional systems (Odoo, Shopify, MercadoLibre, SAP Business One, Excel): every write is staged, approved and audited by deterministic code.
 
 ---
 
 ### 📬 Coordinates
 
-* **Location:** Santiago, Chile (UTC-3 · Full overlap with US Business Hours)
+* **Location:** Santiago, Chile (UTC−3/−4 · Full overlap with US Business Hours)
 * **LinkedIn:** [linkedin.com/in/marcos-stipicich](https://www.linkedin.com/in/marcos-stipicich)
 * **Code & Architecture:** [github.com/esstipi-debug](https://github.com/esstipi-debug)
