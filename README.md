@@ -70,6 +70,15 @@ Drawing from Josh Waitzkin’s *The Art of Learning*, true operational mastery i
 
 ---
 
+## 📄 Field Whitepaper: Dirty Data Is a Rational Answer
+
+### [Dirty Data Is a Rational Answer](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/dirty-data-is-a-rational-answer.pdf) *(29 pages · PDF)*
+The economics of broken records: why WMS cutovers and AI break on the dock, and how to deploy with human incentives instead of against them.
+
+* **[📄 Open the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/dirty-data-is-a-rational-answer.pdf)** · **[View on GitHub](papers/dirty-data-is-a-rational-answer.pdf)**
+
+---
+
 ## 📚 Master Monograph: The Deployment Chasm
 
 ### [The Deployment Chasm: Definitive Edition](https://github.com/esstipi-debug/mellon/releases/download/v2.0.0/THE-DEPLOYMENT-CHASM-EN-OFFICIAL.pdf) *(117-Page Master Monograph · Protected PDF)*
