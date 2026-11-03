@@ -7,14 +7,12 @@ When a customer says "I never received it" and the system says "delivered", the 
 
 This demo runs both on a public marketplace dataset. It is a triage, not a verdict: "indeterminate" is a valid outcome.
 
-```mermaid
-flowchart TD
-    A["Review says 'not received' on an order marked delivered"] --> B{"Written after the recorded delivery day?"}
-    B -->|"No"| L["late_not_a_conflict<br/>the order was still on its way"]
-    B -->|"Yes"| C{"Seller above the 99% Poisson quantile<br/>of the base conflict rate?"}
-    C -->|"Yes"| F["conflict_flagged_seller<br/>look at that origin"]
-    C -->|"No"| I["conflict_indeterminate<br/>standard policy, logged, no penalty"]
-```
+Each order marked delivered with a "not received" review gets one class, by two questions in this order:
+
+| Question | If yes | If no |
+|---|---|---|
+| Was the review written after the recorded delivery day? | next question | `late_not_a_conflict`: the order was still on its way |
+| Is the seller above the 99% Poisson quantile of the base conflict rate? | `conflict_flagged_seller`: look at that origin | `conflict_indeterminate`: standard policy, logged, no penalty |
 
 ## Result on a public marketplace
 
