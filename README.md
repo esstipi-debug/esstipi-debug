@@ -84,6 +84,16 @@ In one retailer's audits, 65% of nearly 370,000 inventory records did not match 
 
 ---
 
+## 🔎 Demo: Which Record Lies?
+
+### [Which Record Lies?](demos/which-record-lies) *(Python · tests included)*
+**When a customer says "not received" and the system says "delivered", which record is wrong?** A small triage on a public marketplace dataset (Olist, 95,824 delivered orders with a review): 57% of the "not received" claims were written before the delivery was recorded, so they were late orders, not suspect customers. The rest disagrees with the delivery record, and sellers explain little of it.
+
+* **[Code, tests and README](demos/which-record-lies)** · The dataset is not redistributed; the README lists the files used and their licence (CC BY-NC-SA 4.0).
+* **Limits, stated up front:** the Portuguese text filter is crude (a hand check found partial deliveries and wrong items among the conflicts), and the dataset has no carrier or warehouse data, so those checks are described but not run.
+
+---
+
 ## ⚡ Core Operational Systems & Architecture
 
 ### 1. [Kern](https://github.com/esstipi-debug/kern) — Deterministic SCM Engine & Claude MCP Server

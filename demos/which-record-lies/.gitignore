@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.coverage
+# The Olist dataset has its own licence and is never committed here.
+*.csv
+data/
