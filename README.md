@@ -114,7 +114,7 @@ A sequel to the first paper, cast with Nietzsche's camel, lion and child. The pa
 High-precision analytical engine and agentic orchestrator for enterprise supply chain operations, built natively for Anthropic's Model Context Protocol (MCP).
 * **Anti-Hallucination Invariant:**
   $$\textbf{LLMs reason, interpret, and translate} \quad \longleftrightarrow \quad \textbf{Deterministic software computes, bounds, and gates}$$
-* **Pure Functional Mathematics:** Closed-form inventory policies, reorder thresholds, and capacity bounds backed by **9,350+ automated test cases**.
+* **Pure Functional Mathematics:** Closed-form inventory policies, reorder thresholds, and capacity bounds, with a suite of **9,689 automated tests**.
 * **Safe-Staging Writebacks:** Zero direct mutations to systems of record. Staged diffs with 900s TTLs, HMAC cryptographic verification, and a Shopify inventory connector.
 
 ### 2. [Mellon & Ithildin](https://github.com/esstipi-debug/mellon) — Enterprise Deployment Framework
@@ -129,7 +129,7 @@ Control plane architecture designed to reconcile commercial silos and supply cha
 
 * **Agricultural & Cold-Chain Logistics:** Modeled Arrhenius/Q10 degradation kinetics and multi-custody handovers to attribute thermal damage and dynamically route export perishables under strict shelf-life feasibility.
 * **Industrial Warehousing & Tier-1 Migrations:** Supervised floor operations through a 50,000-SKU Tier-1 WMS cutover (custom platform to Manhattan) at a global equipment manufacturer's parts distribution centre in Melbourne, from operator training through go-live and hypercare; order processing time fell 20% after cutover.
-* **DTC, Wholesale & Retail P&L Management:** Owned the P&L of a USD 30M cross-border e-commerce portfolio through 300% year-on-year growth; a data-driven inventory strategy released roughly USD 5M of inventory.
+* **DTC, Wholesale & Retail P&L Management:** Owned the P&L of a USD 30M cross-border e-commerce portfolio through 300% year-on-year growth, freeing roughly USD 5M of working capital tied up in inventory.
 * **Deterministic Software Boundaries:** Built the boundary between AI models and transactional systems (Odoo, Shopify, MercadoLibre, SAP Business One, Excel): every write is staged, approved and audited by deterministic code.
 
 ---
