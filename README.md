@@ -84,6 +84,20 @@ In one retailer's audits, 65% of nearly 370,000 inventory records did not match 
 
 ---
 
+## 📄 Field Bestiary: Nobody Pays for Being Wrong
+
+### [Nobody Pays for Being Wrong](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/nobody-pays-for-being-wrong.pdf) *(27 pages · PDF)*
+**A bestiary of the go-live:** why obeying the system and dodging it answer the same rule, and what a rule looks like when nobody has to carry it.
+
+> *"When a system is wrong after go-live, the cost usually lands in a generic account, weeks later, with nobody's name on it."*
+
+A sequel to the first paper, cast with Nietzsche's camel, lion and child. The paper's argument: the supervisor who obeys the system against the evidence and the picker who ships a dented unit look like opposites, but both are cheap for the person doing them, and so is deploying a system and leaving before the nail bends. The studies point to one lever for both errors: make someone answer for the decision, and ask for the reason before the override.
+
+* **[📄 Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/nobody-pays-for-being-wrong.pdf)** · **[View in repository](papers/nobody-pays-for-being-wrong.pdf)**
+* **Six entries:** the dragon (the rules) · the camel (obeys) · the lion (dodges) · the scribe (draws the floor from the record) · the smith (deploys and leaves) · the child (a rule nobody has to carry), plus a field guide to tell them apart.
+
+---
+
 ## 🔎 Demo: Which Record Lies?
 
 ### [Which Record Lies?](demos/which-record-lies) *(Python · tests included)*
