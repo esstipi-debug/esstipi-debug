@@ -70,20 +70,6 @@ Drawing from Josh Waitzkin’s *The Art of Learning*, true operational mastery i
 
 ---
 
-## 📄 Field Whitepaper: Dirty Data Is a Rational Answer
-
-### [Dirty Data Is a Rational Answer](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/dirty-data-is-a-rational-answer.pdf) *(29 pages · PDF)*
-**The economics of broken records:** why WMS cutovers and AI break on the dock, and how to deploy with human incentives instead of against them.
-
-> *"A better algorithm cannot fix a record that is distorted where it is written."*
-
-In one retailer's audits, 65% of nearly 370,000 inventory records did not match the shelf. The paper's argument: accuracy costs the person typing the record time now, while the error costs someone else money later.
-
-* **[📄 Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/dirty-data-is-a-rational-answer.pdf)** · **[View in repository](papers/dirty-data-is-a-rational-answer.pdf)**
-* **Core topics:** What breaks in a Tier-1 WMS cutover · The arithmetic of the shortcut (Becker, Kerr, Grudin) · Bainbridge's ironies of automation · A two-level architecture designed so the correct record becomes the fastest path · Where AI fits, and where it never writes.
-
----
-
 ## 📄 Field Bestiary: Nobody Pays for Being Wrong
 
 ### [Nobody Pays for Being Wrong](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/nobody-pays-for-being-wrong.pdf) *(27 pages · PDF)*
@@ -91,7 +77,7 @@ In one retailer's audits, 65% of nearly 370,000 inventory records did not match 
 
 > *"When a system is wrong after go-live, the cost usually lands in a generic account, weeks later, with nobody's name on it."*
 
-A sequel to the first paper, cast with Nietzsche's camel, lion and child. The paper's argument: the supervisor who obeys the system against the evidence and the picker who ships a dented unit look like opposites, but both are cheap for the person doing them, and so is deploying a system and leaving before the nail bends. The studies point to one lever for both errors: make someone answer for the decision, and ask for the reason before the override.
+Cast with Nietzsche's camel, lion and child. The paper's argument: the supervisor who obeys the system against the evidence and the picker who ships a dented unit look like opposites, but both are cheap for the person doing them, and so is deploying a system and leaving before the nail bends. The studies point to one lever for both errors: make someone answer for the decision, and ask for the reason before the override.
 
 * **[📄 Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/nobody-pays-for-being-wrong.pdf)** · **[View in repository](papers/nobody-pays-for-being-wrong.pdf)**
 * **Six entries:** the dragon (the rules) · the camel (obeys) · the lion (dodges) · the scribe (draws the floor from the record) · the smith (deploys and leaves) · the child (a rule nobody has to carry), plus a field guide to tell them apart.
