@@ -70,6 +70,15 @@ Drawing from Josh Waitzkin’s *The Art of Learning*, true operational mastery i
 
 ---
 
+## 📄 Field Notes for the CEO: The Smith and the Tailor
+
+### [The Smith and the Tailor](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-smith-and-the-tailor.pdf) *(10 pages · PDF)*
+**Why many deployments are cut before anyone measures the floor,** what the habit costs once the deployer leaves, and two rules a CEO can set before kickoff.
+
+* **[📄 Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-smith-and-the-tailor.pdf)** · **[View in repository](papers/the-smith-and-the-tailor.pdf)**
+
+---
+
 ## 📄 Field Bestiary: Nobody Pays for Being Wrong
 
 ### [Nobody Pays for Being Wrong](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/nobody-pays-for-being-wrong.pdf) *(27 pages · PDF)*
