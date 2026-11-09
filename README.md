@@ -1,6 +1,8 @@
 # Marcos Stipicich
 ### Supply Chain & Operations × Deployment Strategy
 
+Author of *The Deployment Chasm*.
+
 > *"In kind environments, where rules are fixed and feedback is immediate, machines win. In wicked environments—where patterns are messy, rules are unwritten, and human incentives collide—breadth with deep roots wins."*  
 > — Adapted from David Epstein (*Range*) and frontline practice.
 
