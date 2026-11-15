@@ -81,7 +81,7 @@ flowchart LR
 
 ## Core Operational Systems & Prototypes
 
-*(Pre-revenue architecture prototypes built to test deterministic guardrails and adoption mechanics.)*
+*(Diagnostic engines, open-source field toolkits, and reference architectures built to enforce deterministic guardrails and adoption mechanics.)*
 
 ### 1. [Kern](https://github.com/esstipi-debug/kern) & `nosilo_core` — Deterministic SCM Engine, Level-1 Decision Cockpit & MCP Server
 Analytical engine and pre-ERP control plane in Python (**9,966 collected unit tests** at commit `7757fb1`, 60 registered capabilities, and a 39-tool Anthropic MCP server).
