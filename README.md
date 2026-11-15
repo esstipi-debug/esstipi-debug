@@ -84,7 +84,7 @@ flowchart LR
 *(Diagnostic engines, open-source field toolkits, and reference architectures built to enforce deterministic guardrails and adoption mechanics.)*
 
 ### 1. [Kern](https://github.com/esstipi-debug/kern) & `nosilo_core` — Deterministic SCM Engine, Level-1 Decision Cockpit & MCP Server
-Analytical engine and pre-ERP control plane in Python (**9,966 collected unit tests** at commit `7757fb1`, 60 registered capabilities, and a 39-tool Anthropic MCP server).
+Analytical engine and pre-ERP control plane in Python (**10,483 passing tests**, 0 failing, on a clean install at commit `e2159ed`, private repository; 60 registered capabilities, and a 39-tool Anthropic MCP server).
 * **Anti-Hallucination Boundary:** LLMs interpret unstructured context; deterministic Python owns every financial and inventory calculation.
 * **Counterfactual Decision Cards (`src/decision_paths.py`):** Each decision card ranks the engine's paths alongside two more—**The Operator's Play (`operator:`)**, measured with the same engine and objectives, and **Do Nothing (`status_quo:`)**—scored on objectives such as working capital tied up, excess days of inventory, and margin at risk. A cost that could not be measured is never shown as zero.
 * **Level-1 Decision Cockpit (`webapp/cockpit.py`):** Takes a stock spreadsheet through four steps—ingest, data-quality mirror, an approval tray with undo, and a twin `.narvi.xlsx` workbook. Every number comes from the deterministic replenishment job; no language model in the loop.
@@ -92,7 +92,7 @@ Analytical engine and pre-ERP control plane in Python (**9,966 collected unit te
 * **Two-Run Metamorphic Netting Probe (`scripts/barrido_neteo.py`):** Runs each of Kern's 14 reorder emitters twice, with and without in-transit stock, to catch any emitter that fails to net it—without trusting field names.
 
 ### 2. [Mellon](https://github.com/esstipi-debug/mellon) — Pre-Cutover Forensic Audit & Guardrail Kit
-Open-source field toolkit (MIT license, **1,079 collected tests**) with Pydantic v2 state-machine contracts (`P1–P6` floor invariants), SQL forensic assertions for SAP S/4HANA (`ACDOCA/MSEG/EKPO/EKET`), and a self-contained interactive Decision Cockpit (`cockpit.html`).
+Open-source field toolkit (MIT license, **1,141 passing tests**, 0 failing, at commit `89c01cb`; clean install, `git clone` + `pytest -q`, 14 Nov 2026) with Pydantic v2 state-machine contracts (`P1–P6` floor invariants), SQL forensic assertions for SAP S/4HANA (`ACDOCA/MSEG/EKPO/EKET`), and a self-contained interactive Decision Cockpit (`cockpit.html`).
 
 ### 3. `Holy Oly` — Deterministic Periodization Engine & Builder-Side Adoption Case Study
 End-to-end TypeScript monorepo (`~44.8k` LOC across `packages/core`, Fastify 5 + Prisma 6 + PostgreSQL 16 API, and React 18 web app; **1,332 unit tests + 31 embedded-PostgreSQL integration tests**).
