@@ -97,6 +97,10 @@ flowchart LR
 **Why the person who sees a rule fail after go-live may not be the one who can stop it,** and how a CEO can measure the gap.
 * **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/who-is-allowed-to-be-right.pdf)** · **[View in repository](papers/who-is-allowed-to-be-right.pdf)**
 
+### 10. [Put the Toll on the Bridge](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/put-the-toll-on-the-bridge.pdf) *(10 pages · PDF)*
+**Why a step that guards an expensive mistake earns its place on a shift screen, and the same step on every line teaches the crew to get around it,** with four questions for the next screen a COO approves.
+* **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/put-the-toll-on-the-bridge.pdf)** · **[View in repository](papers/put-the-toll-on-the-bridge.pdf)**
+
 ---
 
 ## Reproducible Audit Demo: Which Record Lies?
