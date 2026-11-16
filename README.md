@@ -69,6 +69,30 @@ flowchart LR
 **A bestiary of the go-live:** why obeying the system when it is wrong and dodging it on the night shift answer the exact same incentive rule—and how making someone answer for the decision before the override fixes both.
 * **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/nobody-pays-for-being-wrong.pdf)** · **[View in repository](papers/nobody-pays-for-being-wrong.pdf)**
 
+### 3. [The Shortcut Is Not a Lapse](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-shortcut-is-not-a-lapse.pdf) *(8 pages · PDF)*
+**Why dented units ship,** and three questions a COO can ask where the record is written.
+* **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-shortcut-is-not-a-lapse.pdf)** · **[View in repository](papers/the-shortcut-is-not-a-lapse.pdf)**
+
+### 4. [The Damage Has No Name](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-damage-has-no-name.pdf) *(8 pages · PDF)*
+**Why the fastest driver on the report can be the most expensive one in the ledger,** and how a CFO can trace three lines of damage to a name.
+* **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-damage-has-no-name.pdf)** · **[View in repository](papers/the-damage-has-no-name.pdf)**
+
+### 5. [When Exceptions Outrun the Desk](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/when-exceptions-outrun-the-desk.pdf) *(8 pages · PDF)*
+**Why exceptions the desk cannot clear leave the procedure,** and four numbers a COO can watch each week before the record drifts.
+* **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/when-exceptions-outrun-the-desk.pdf)** · **[View in repository](papers/when-exceptions-outrun-the-desk.pdf)**
+
+### 6. [The Tow the System Calls Idle](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-tow-the-system-calls-idle.pdf) *(8 pages · PDF)*
+**Why minutes the time standard has no category for are charged to the operator,** and five steps a COO can take to let the floor contest them.
+* **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-tow-the-system-calls-idle.pdf)** · **[View in repository](papers/the-tow-the-system-calls-idle.pdf)**
+
+### 7. [A Hundred Eyes, One Percent](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/a-hundred-eyes-one-percent.pdf) *(9 pages · PDF)*
+**Why a human approval can get weaker as the system it checks gets better,** and how a CFO can test the control, not the signature, the way airports test their screeners.
+* **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/a-hundred-eyes-one-percent.pdf)** · **[View in repository](papers/a-hundred-eyes-one-percent.pdf)**
+
+### 8. [Use It or Lose It](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/use-it-or-lose-it.pdf) *(8 pages · PDF)*
+**Why a budget that expires on a fixed date pays for a rush in its last week,** who carries the bill, and the rule a CEO can change.
+* **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/use-it-or-lose-it.pdf)** · **[View in repository](papers/use-it-or-lose-it.pdf)**
+
 ---
 
 ## Reproducible Audit Demo: Which Record Lies?
