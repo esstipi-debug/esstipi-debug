@@ -48,7 +48,22 @@ python which_record_lies.py path/to/olist
 python -m pytest
 ```
 
-Options: `--alpha 0.01` (flag level) and `--min-orders 50` (sellers with fewer orders are not assessed). Tested with Python 3.13; 68 tests on synthetic data, no Olist files needed.
+Options: `--alpha 0.01` (flag level) and `--min-orders 50` (sellers with fewer orders are not assessed). Tested with Python 3.13; 68 tests of the triage on synthetic data (`test_which_record_lies.py`), no Olist files needed. The pre-registered audit below adds 38 more (`test_n0.py`, `test_gestalt_b.py`).
+
+## Pre-registered audit: before and after, in orders and BRL
+
+`run_n0.py` runs the audit pre-registered as PRE-N0-01 on the same three Olist files: the naive rule (every "not received" claim on a delivered order is a delivery dispute) against this triage, valued in BRL, plus two seeded samples (100 late claims and 100 conflicts) exported blind for hand labeling, a negative control (texts shuffled among reviews of the same delivery month) and the sensitivity to alpha.
+
+```bash
+pip install -r requirements.lock
+python run_n0.py --data path/to/olist --verify       # the 64 characters of the 3 SHA-256
+python run_n0.py --data path/to/olist --out out      # about 2 minutes, no network
+python verify_n0.py out                              # re-hash every output against MANIFEST.sha256
+python evaluate_labels.py out labels.csv             # shares and Wilson bounds from the blind labels
+python gestalt_b.py --data path/to/olist --predictions predictions.json   # Annex B: predict first, compute after
+```
+
+The seed, the sample size, the thresholds and the file hashes live in `prereg.py` and nowhere else. The run refuses to start if an input file differs from its hash. The output holds no date, path or library version, so two environments give byte-identical files (`python verify_n0.py out_a out_b`). It has not been run on Olist yet: it waits for the publication of the pre-registration commit and for the labels.
 
 ## Data
 

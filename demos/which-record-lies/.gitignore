@@ -4,4 +4,6 @@ __pycache__/
 .coverage
 # The Olist dataset has its own licence and is never committed here.
 *.csv
+# the blind labels of PRE-N0-01 are published together with its result
+!labels.csv
 data/
