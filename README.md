@@ -93,6 +93,10 @@ flowchart LR
 **Why a budget that expires on a fixed date pays for a rush in its last week,** who carries the bill, and the rule a CEO can change.
 * **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/use-it-or-lose-it.pdf)** · **[View in repository](papers/use-it-or-lose-it.pdf)**
 
+### 9. [Who Is Allowed to Be Right?](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/who-is-allowed-to-be-right.pdf) *(8 pages · PDF)*
+**Why the person who sees a rule fail after go-live may not be the one who can stop it,** and how a CEO can measure the gap.
+* **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/who-is-allowed-to-be-right.pdf)** · **[View in repository](papers/who-is-allowed-to-be-right.pdf)**
+
 ---
 
 ## Reproducible Audit Demo: Which Record Lies?
