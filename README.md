@@ -117,7 +117,7 @@ flowchart LR
 *(Diagnostic engines, open-source field toolkits, and reference architectures built to enforce deterministic guardrails and adoption mechanics.)*
 
 ### 1. [Kern](https://github.com/esstipi-debug/kern) & `nosilo_core` — Deterministic SCM Engine, Level-1 Decision Cockpit & MCP Server
-Analytical engine and pre-ERP control plane in Python (**10,483 passing tests**, 0 failing, on a clean install at commit `e2159ed`, private repository; 60 registered capabilities, and a 39-tool Anthropic MCP server).
+Analytical engine and pre-ERP control plane in Python (**10,607 passing tests**, 0 failing, on a clean install at commit `e852ec6`, private repository; 60 registered capabilities, and a 39-tool Anthropic MCP server).
 * **Anti-Hallucination Boundary:** LLMs interpret unstructured context; deterministic Python owns every financial and inventory calculation.
 * **Counterfactual Decision Cards (`src/decision_paths.py`):** Each decision card ranks the engine's paths alongside two more—**The Operator's Play (`operator:`)**, measured with the same engine and objectives, and **Do Nothing (`status_quo:`)**—scored on objectives such as working capital tied up, excess days of inventory, and margin at risk. A cost that could not be measured is never shown as zero.
 * **Level-1 Decision Cockpit (`webapp/cockpit.py`):** Takes a stock spreadsheet through four steps—ingest, data-quality mirror, an approval tray with undo, and a twin `.narvi.xlsx` workbook. Every number comes from the deterministic replenishment job; no language model in the loop.
