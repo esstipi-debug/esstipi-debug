@@ -102,6 +102,10 @@ flowchart LR
 * **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/put-the-toll-on-the-bridge.pdf)** · **[View in repository](papers/put-the-toll-on-the-bridge.pdf)**
 * **In Spanish:** [Poné el peaje en el puente](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/pone-el-peaje-en-el-puente.pdf) *(10 pages · PDF)*
 
+### 11. [Who the Form Is For](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/who-the-form-is-for.pdf) *(9 pages · PDF)*
+**Why a quality record built for the auditor teaches the floor to fill it rather than use it,** with four questions a COO can ask of the records an auditor reads.
+* **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/who-the-form-is-for.pdf)** · **[View in repository](papers/who-the-form-is-for.pdf)**
+
 ---
 
 ## Reproducible Audit Demo: Which Record Lies?
