@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="808" viewBox="0 0 900 808" role="img" aria-labelledby="fan-title fan-desc">
+  <title id="fan-title">Marcos Stipicich: Supply Chain &amp; Operations × Deployment Strategist (Giant Doctrine Fan &amp; Pre-Cutover Vaccines)</title>
+  <desc id="fan-desc">Full-width semicircular doctrine fan mapping six operational failure seams to coined deployment doctrine, checkable proof, and four pre-cutover adversarial vaccines.</desc>
+  <defs>
+    <radialGradient id="fanGlow" cx="50%" cy="52%" r="48%">
+      <stop offset="0%" stop-color="#e3a27e" stop-opacity="0.16"/>
+      <stop offset="65%" stop-color="#e3a27e" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#101217" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hubGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#281f20"/>
+      <stop offset="100%" stop-color="#151821"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: 'Archivo', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      @keyframes hubPulse { 0%, 100% { opacity: 0.35; r: 8px; } 50% { opacity: 0.9; r: 12px; } }
+      .pulse-ring { animation: hubPulse 3.6s ease-in-out infinite; }
+      @media (prefers-reduced-motion: reduce) { .pulse-ring { animation: none; } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="898" height="806" rx="12" fill="#101217" stroke="#2a2f3d" stroke-width="1.5"/>
+  <rect x="1" y="1" width="898" height="806" rx="12" fill="url(#fanGlow)"/>
+  <line x1="28" y1="18" x2="872" y2="18" stroke="#e3a27e" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="28" y1="18" x2="28" y2="24" stroke="#e3a27e" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="84" y1="18" x2="84" y2="21" stroke="#e3a27e" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="140" y1="18" x2="140" y2="21" stroke="#e3a27e" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="196" y1="18" x2="196" y2="21" stroke="#e3a27e" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="252" y1="18" x2="252" y2="24" stroke="#e3a27e" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="308" y1="18" x2="308" y2="21" stroke="#e3a27e" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="364" y1="18" x2="364" y2="21" stroke="#e3a27e" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="420" y1="18" x2="420" y2="21" stroke="#e3a27e" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="476" y1="18" x2="476" y2="24" stroke="#e3a27e" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="532" y1="18" x2="532" y2="21" stroke="#e3a27e" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="588" y1="18" x2="588" y2="21" stroke="#e3a27e" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="644" y1="18" x2="644" y2="21" stroke="#e3a27e" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="700" y1="18" x2="700" y2="24" stroke="#e3a27e" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="756" y1="18" x2="756" y2="21" stroke="#e3a27e" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="812" y1="18" x2="812" y2="21" stroke="#e3a27e" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="868" y1="18" x2="868" y2="21" stroke="#e3a27e" stroke-opacity="0.45" stroke-width="1"/>
+  <text x="28" y="47" class="sans" font-size="22" font-weight="800" fill="#eee9de" letter-spacing="0.6">MARCOS STIPICICH</text>
+  <text x="262" y="46" class="sans" font-size="13.2" font-weight="700" fill="#e3a27e" letter-spacing="0.9">SUPPLY CHAIN &amp; OPERATIONS × DEPLOYMENT STRATEGIST</text>
+  <text x="872" y="45" text-anchor="end" class="mono" font-size="10.8" font-weight="700" fill="#9a958a">13 YRS IN OPS</text>
+  <text x="28" y="70" class="mono" font-size="11.4" fill="#8fb8a8">50,000+ SKU Cutover (-20%)  ·  USD 30M P&amp;L (~USD 5M Freed)  ·  The Deployment Chasm (551 pp.)  ·  10,756 Passing Tests</text>
+  <line x1="28" y1="84" x2="872" y2="84" stroke="#eee9de" stroke-opacity="0.13" stroke-width="1"/>
+  <path d="M 37.57 492.39 A 413.00 413.00 0 0 1 862.43 492.39" fill="none" stroke="#e3a27e" stroke-opacity="0.24" stroke-width="1" stroke-dasharray="3 5"/>
+  <path d="M 242.40 501.12 A 208.00 208.00 0 0 1 272.56 405.48 L 348.48 451.91 A 119.00 119.00 0 0 0 331.23 506.63 Z" fill="#261d1e" stroke="#e3a27e" stroke-opacity="0.34" stroke-width="1.1"/>
+  <path d="M 146.58 495.18 A 304.00 304.00 0 0 1 190.66 355.39 L 268.29 402.87 A 213.00 213.00 0 0 0 237.41 500.81 Z" fill="#181d29" stroke="#eee9de" stroke-opacity="0.22" stroke-width="1.1"/>
+  <path d="M 52.76 489.36 A 398.00 398.00 0 0 1 110.47 306.34 L 186.39 352.78 A 309.00 309.00 0 0 0 141.59 494.87 Z" fill="#1f2737" stroke="#8fb8a8" stroke-opacity="0.45" stroke-width="1.2"/>
+  <g transform="translate(294.07 464.83) rotate(-72.50)">
+    <text x="0" y="-7.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.2" font-weight="700" fill="#efb696">Dirty</text>
+    <text x="0" y="7.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.2" font-weight="700" fill="#efb696">Record</text>
+  </g>
+  <g transform="translate(203.46 436.27) rotate(-72.50)">
+    <text x="0" y="-8.0" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.8" font-weight="700" fill="#eee9de">5-Column Log</text>
+    <text x="0" y="8.0" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.8" font-weight="700" fill="#eee9de">Forensic Triage</text>
+  </g>
+  <g transform="translate(112.86 407.70) rotate(-72.50)">
+    <text x="0" y="-8.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="13.4" font-weight="800" fill="#b8d4c8">95,824 Orders</text>
+    <text x="0" y="8.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="13.4" font-weight="800" fill="#b8d4c8">68 Tests</text>
+  </g>
+  <line x1="70.42" y1="394.32" x2="56.11" y2="389.81" stroke="#e3a27e" stroke-width="1.6"/>
+  <circle cx="56.11" cy="389.81" r="12.5" fill="#101217" stroke="#e3a27e" stroke-width="1.7"/>
+  <text x="56.11" y="390.31" text-anchor="middle" dominant-baseline="central" class="mono" font-size="10.5" font-weight="700" fill="#e3a27e">01</text>
+  <path d="M 274.67 402.09 A 208.00 208.00 0 0 1 347.42 333.06 L 391.31 410.48 A 119.00 119.00 0 0 0 349.69 449.97 Z" fill="#261d1e" stroke="#e3a27e" stroke-opacity="0.34" stroke-width="1.1"/>
+  <path d="M 193.75 350.44 A 304.00 304.00 0 0 1 300.07 249.54 L 344.95 328.71 A 213.00 213.00 0 0 0 270.46 399.40 Z" fill="#181d29" stroke="#eee9de" stroke-opacity="0.22" stroke-width="1.1"/>
+  <path d="M 114.52 299.86 A 398.00 398.00 0 0 1 253.71 167.77 L 297.61 245.19 A 309.00 309.00 0 0 0 189.54 347.75 Z" fill="#1f2737" stroke="#8fb8a8" stroke-opacity="0.45" stroke-width="1.2"/>
+  <g transform="translate(337.45 395.40) rotate(-43.50)">
+    <text x="0" y="-7.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.2" font-weight="700" fill="#efb696">Perverse</text>
+    <text x="0" y="7.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.2" font-weight="700" fill="#efb696">KPI</text>
+  </g>
+  <g transform="translate(272.06 326.49) rotate(-43.50)">
+    <text x="0" y="-8.0" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.8" font-weight="700" fill="#eee9de">Campbell Law &amp;</text>
+    <text x="0" y="8.0" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.8" font-weight="700" fill="#eee9de">Bypass Pressure</text>
+  </g>
+  <g transform="translate(206.67 257.58) rotate(-43.50)">
+    <text x="0" y="-8.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="13.4" font-weight="800" fill="#b8d4c8">Bonus Retired</text>
+    <text x="0" y="8.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="13.4" font-weight="800" fill="#b8d4c8">0-Complaint KPI</text>
+  </g>
+  <line x1="176.03" y1="225.30" x2="165.71" y2="214.42" stroke="#e3a27e" stroke-width="1.6"/>
+  <circle cx="165.71" cy="214.42" r="12.5" fill="#101217" stroke="#e3a27e" stroke-width="1.7"/>
+  <text x="165.71" y="214.92" text-anchor="middle" dominant-baseline="central" class="mono" font-size="10.5" font-weight="700" fill="#e3a27e">02</text>
+  <path d="M 350.91 331.12 A 208.00 208.00 0 0 1 448.00 306.01 L 448.86 395.01 A 119.00 119.00 0 0 0 393.31 409.37 Z" fill="#261d1e" stroke="#e3a27e" stroke-opacity="0.34" stroke-width="1.1"/>
+  <path d="M 305.18 246.71 A 304.00 304.00 0 0 1 447.08 210.01 L 447.96 301.01 A 213.00 213.00 0 0 0 348.53 326.72 Z" fill="#181d29" stroke="#eee9de" stroke-opacity="0.22" stroke-width="1.1"/>
+  <path d="M 260.40 164.07 A 398.00 398.00 0 0 1 446.18 116.02 L 447.03 205.01 A 309.00 309.00 0 0 0 302.79 242.32 Z" fill="#1f2737" stroke="#8fb8a8" stroke-opacity="0.45" stroke-width="1.2"/>
+  <g transform="translate(409.06 355.71) rotate(-14.50)">
+    <text x="0" y="-7.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.2" font-weight="700" fill="#efb696">Routine</text>
+    <text x="0" y="7.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.2" font-weight="700" fill="#efb696">Friction</text>
+  </g>
+  <g transform="translate(385.28 263.73) rotate(-14.50)">
+    <text x="0" y="-8.0" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.8" font-weight="700" fill="#eee9de">Put the Toll</text>
+    <text x="0" y="8.0" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.8" font-weight="700" fill="#eee9de">on the Bridge</text>
+  </g>
+  <g transform="translate(361.49 171.76) rotate(-14.50)">
+    <text x="0" y="-8.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="13.4" font-weight="800" fill="#b8d4c8">Reason Logged</text>
+    <text x="0" y="8.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="13.4" font-weight="800" fill="#b8d4c8">Before Override</text>
+  </g>
+  <line x1="350.35" y1="128.68" x2="346.59" y2="114.16" stroke="#e3a27e" stroke-width="1.6"/>
+  <circle cx="346.59" cy="114.16" r="12.5" fill="#101217" stroke="#e3a27e" stroke-width="1.7"/>
+  <text x="346.59" y="114.66" text-anchor="middle" dominant-baseline="central" class="mono" font-size="10.5" font-weight="700" fill="#e3a27e">03</text>
+  <path d="M 452.00 306.01 A 208.00 208.00 0 0 1 549.09 331.12 L 506.69 409.37 A 119.00 119.00 0 0 0 451.14 395.01 Z" fill="#261d1e" stroke="#e3a27e" stroke-opacity="0.34" stroke-width="1.1"/>
+  <path d="M 452.92 210.01 A 304.00 304.00 0 0 1 594.82 246.71 L 551.47 326.72 A 213.00 213.00 0 0 0 452.04 301.01 Z" fill="#181d29" stroke="#eee9de" stroke-opacity="0.22" stroke-width="1.1"/>
+  <path d="M 453.82 116.02 A 398.00 398.00 0 0 1 639.60 164.07 L 597.21 242.32 A 309.00 309.00 0 0 0 452.97 205.01 Z" fill="#1f2737" stroke="#8fb8a8" stroke-opacity="0.45" stroke-width="1.2"/>
+  <g transform="translate(490.94 355.71) rotate(14.50)">
+    <text x="0" y="-7.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.2" font-weight="700" fill="#efb696">Unsafe</text>
+    <text x="0" y="7.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.2" font-weight="700" fill="#efb696">ERP Write</text>
+  </g>
+  <g transform="translate(514.72 263.73) rotate(14.50)">
+    <text x="0" y="-8.0" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.8" font-weight="700" fill="#eee9de">11-Hazard STPA</text>
+    <text x="0" y="8.0" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.8" font-weight="700" fill="#eee9de">&amp; Draft Staging</text>
+  </g>
+  <g transform="translate(538.51 171.76) rotate(14.50)">
+    <text x="0" y="-8.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="13.4" font-weight="800" fill="#b8d4c8">HMAC 900s TTL</text>
+    <text x="0" y="8.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="13.4" font-weight="800" fill="#b8d4c8">1,141 Passing</text>
+  </g>
+  <line x1="549.65" y1="128.68" x2="553.41" y2="114.16" stroke="#e3a27e" stroke-width="1.6"/>
+  <circle cx="553.41" cy="114.16" r="12.5" fill="#101217" stroke="#e3a27e" stroke-width="1.7"/>
+  <text x="553.41" y="114.66" text-anchor="middle" dominant-baseline="central" class="mono" font-size="10.5" font-weight="700" fill="#e3a27e">04</text>
+  <path d="M 552.58 333.06 A 208.00 208.00 0 0 1 625.33 402.09 L 550.31 449.97 A 119.00 119.00 0 0 0 508.69 410.48 Z" fill="#261d1e" stroke="#e3a27e" stroke-opacity="0.34" stroke-width="1.1"/>
+  <path d="M 599.93 249.54 A 304.00 304.00 0 0 1 706.25 350.44 L 629.54 399.40 A 213.00 213.00 0 0 0 555.05 328.71 Z" fill="#181d29" stroke="#eee9de" stroke-opacity="0.22" stroke-width="1.1"/>
+  <path d="M 646.29 167.77 A 398.00 398.00 0 0 1 785.48 299.86 L 710.46 347.75 A 309.00 309.00 0 0 0 602.39 245.19 Z" fill="#1f2737" stroke="#8fb8a8" stroke-opacity="0.45" stroke-width="1.2"/>
+  <g transform="translate(562.55 395.40) rotate(43.50)">
+    <text x="0" y="-7.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.2" font-weight="700" fill="#efb696">Pilot</text>
+    <text x="0" y="7.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.2" font-weight="700" fill="#efb696">Purgatory</text>
+  </g>
+  <g transform="translate(627.94 326.49) rotate(43.50)">
+    <text x="0" y="-8.0" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.8" font-weight="700" fill="#eee9de">2-Hop Ontology</text>
+    <text x="0" y="8.0" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.8" font-weight="700" fill="#eee9de">&amp; CPVT Pricing</text>
+  </g>
+  <g transform="translate(693.33 257.58) rotate(43.50)">
+    <text x="0" y="-8.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="13.4" font-weight="800" fill="#b8d4c8">10,756 Passing</text>
+    <text x="0" y="8.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="13.4" font-weight="800" fill="#b8d4c8">39-Tool MCP</text>
+  </g>
+  <line x1="723.97" y1="225.30" x2="734.29" y2="214.42" stroke="#e3a27e" stroke-width="1.6"/>
+  <circle cx="734.29" cy="214.42" r="12.5" fill="#101217" stroke="#e3a27e" stroke-width="1.7"/>
+  <text x="734.29" y="214.92" text-anchor="middle" dominant-baseline="central" class="mono" font-size="10.5" font-weight="700" fill="#e3a27e">05</text>
+  <path d="M 627.44 405.48 A 208.00 208.00 0 0 1 657.60 501.12 L 568.77 506.63 A 119.00 119.00 0 0 0 551.52 451.91 Z" fill="#261d1e" stroke="#e3a27e" stroke-opacity="0.34" stroke-width="1.1"/>
+  <path d="M 709.34 355.39 A 304.00 304.00 0 0 1 753.42 495.18 L 662.59 500.81 A 213.00 213.00 0 0 0 631.71 402.87 Z" fill="#181d29" stroke="#eee9de" stroke-opacity="0.22" stroke-width="1.1"/>
+  <path d="M 789.53 306.34 A 398.00 398.00 0 0 1 847.24 489.36 L 758.41 494.87 A 309.00 309.00 0 0 0 713.61 352.78 Z" fill="#1f2737" stroke="#8fb8a8" stroke-opacity="0.45" stroke-width="1.2"/>
+  <g transform="translate(605.93 464.83) rotate(72.50)">
+    <text x="0" y="-7.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.2" font-weight="700" fill="#efb696">Blind</text>
+    <text x="0" y="7.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.2" font-weight="700" fill="#efb696">Cutover</text>
+  </g>
+  <g transform="translate(696.54 436.27) rotate(72.50)">
+    <text x="0" y="-8.0" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.8" font-weight="700" fill="#eee9de">The Smith &amp;</text>
+    <text x="0" y="8.0" text-anchor="middle" dominant-baseline="central" class="sans" font-size="12.8" font-weight="700" fill="#eee9de">the Tailor</text>
+  </g>
+  <g transform="translate(787.14 407.70) rotate(72.50)">
+    <text x="0" y="-8.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="13.4" font-weight="800" fill="#b8d4c8">50,000+ SKU</text>
+    <text x="0" y="8.5" text-anchor="middle" dominant-baseline="central" class="sans" font-size="13.4" font-weight="800" fill="#b8d4c8">-20% Order Time</text>
+  </g>
+  <line x1="829.58" y1="394.32" x2="843.89" y2="389.81" stroke="#e3a27e" stroke-width="1.6"/>
+  <circle cx="843.89" cy="389.81" r="12.5" fill="#101217" stroke="#e3a27e" stroke-width="1.7"/>
+  <text x="843.89" y="390.31" text-anchor="middle" dominant-baseline="central" class="mono" font-size="10.5" font-weight="700" fill="#e3a27e">06</text>
+  <path d="M 52.55 493.17 A 398.00 398.00 0 0 1 847.45 493.17" fill="none" stroke="#e3a27e" stroke-width="2.2"/>
+  <path d="M 336.16 508.03 A 114.00 114.00 0 0 1 563.84 508.03 L 450.00 514.00 Z" fill="url(#hubGrad)" stroke="#e3a27e" stroke-width="2.2"/>
+  <circle class="pulse-ring" cx="450.00" cy="504.00" r="9" fill="none" stroke="#e3a27e" stroke-width="1.2"/>
+  <circle cx="450.00" cy="504.00" r="4.5" fill="#e3a27e"/>
+  <text x="450.00" y="436.00" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#e3a27e" letter-spacing="1">FDS × DOCTRINE</text>
+  <text x="450.00" y="459.00" text-anchor="middle" class="sans" font-size="16" font-weight="800" fill="#eee9de">Floor · Record · Code</text>
+  <text x="450.00" y="479.00" text-anchor="middle" class="sans" font-size="12" font-weight="700" fill="#efb696">The Tailor over The Smith</text>
+  <text x="450.00" y="494.00" text-anchor="middle" class="mono" font-size="10" fill="#c8c3b7">Measure First · Day-90 Check</text>
+  <rect x="64" y="523" width="772" height="30" rx="6" fill="#151821" stroke="#eee9de" stroke-opacity="0.14" stroke-width="1"/>
+  <text x="84" y="542" class="mono" font-size="10.5" font-weight="700" fill="#e3a27e">CENTER → OUTWARD:</text>
+  <rect x="234" y="533" width="10" height="10" rx="2" fill="#261d1e" stroke="#e3a27e" stroke-opacity="0.7" stroke-width="1"/>
+  <text x="250" y="542" class="sans" font-size="12" fill="#c8c3b7"><tspan font-weight="700" fill="#eee9de">Ring I:</tspan> Floor Seam</text>
+  <rect x="392" y="533" width="10" height="10" rx="2" fill="#181d29" stroke="#eee9de" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="408" y="542" class="sans" font-size="12" fill="#c8c3b7"><tspan font-weight="700" fill="#eee9de">Ring II:</tspan> Coined Doctrine</text>
+  <rect x="586" y="533" width="10" height="10" rx="2" fill="#1f2737" stroke="#8fb8a8" stroke-opacity="0.8" stroke-width="1"/>
+  <text x="602" y="542" class="sans" font-size="12" fill="#c8c3b7"><tspan font-weight="700" fill="#eee9de">Ring III:</tspan> Checkable Proof</text>
+  <line x1="28" y1="568" x2="872" y2="568" stroke="#e3a27e" stroke-opacity="0.32" stroke-width="1"/>
+  <text x="28" y="590" class="mono" font-size="11.2" font-weight="700" fill="#e3a27e" letter-spacing="0.8">ADVERSARIAL SYSTEMS CAPACITY · PRE-CUTOVER VACCINES</text>
+  <text x="872" y="590" text-anchor="end" class="sans" font-size="12" fill="#9a958a">Operational red-teaming &amp; friction reduction before go-live</text>
+  <rect x="28" y="604" width="414" height="86" rx="7" fill="#151821" stroke="#8fb8a8" stroke-opacity="0.30" stroke-width="1"/>
+  <rect x="28" y="604" width="3.5" height="86" rx="2" fill="#8fb8a8"/>
+  <text x="42" y="623" class="mono" font-size="9.5" font-weight="700" fill="#8fb8a8" letter-spacing="0.6">VACCINE 01 · FRICTION CALIBRATION</text>
+  <text x="42" y="644" class="sans" font-size="15" font-weight="800" fill="#eee9de">Cut Routine Shift Friction</text>
+  <text x="42" y="663" class="sans" font-size="12" fill="#c8c3b7">Make the compliant workflow faster than the shortcut;</text>
+  <text x="42" y="679" class="sans" font-size="12" fill="#9a958a">guard only costly writes, reason logged before saving.</text>
+  <rect x="458" y="604" width="414" height="86" rx="7" fill="#151821" stroke="#8fb8a8" stroke-opacity="0.30" stroke-width="1"/>
+  <rect x="458" y="604" width="3.5" height="86" rx="2" fill="#8fb8a8"/>
+  <text x="472" y="623" class="mono" font-size="9.5" font-weight="700" fill="#8fb8a8" letter-spacing="0.6">VACCINE 02 · INCENTIVE IMMUNITY</text>
+  <text x="472" y="644" class="sans" font-size="15" font-weight="800" fill="#eee9de">Stress-Test KPIs &amp; Shortcuts</text>
+  <text x="472" y="663" class="sans" font-size="12" fill="#c8c3b7">Red-team bonuses, quotas &amp; exception paths from a</text>
+  <text x="472" y="679" class="sans" font-size="12" fill="#9a958a">rushed shift&#x27;s lens before parallel spreadsheets appear.</text>
+  <rect x="28" y="702" width="414" height="86" rx="7" fill="#151821" stroke="#8fb8a8" stroke-opacity="0.30" stroke-width="1"/>
+  <rect x="28" y="702" width="3.5" height="86" rx="2" fill="#8fb8a8"/>
+  <text x="42" y="721" class="mono" font-size="9.5" font-weight="700" fill="#8fb8a8" letter-spacing="0.6">VACCINE 03 · STATE &amp; STPA LOCKS</text>
+  <text x="42" y="742" class="sans" font-size="15" font-weight="800" fill="#eee9de">Lock Sequences &amp; Raw Extracts</text>
+  <text x="42" y="761" class="sans" font-size="12" fill="#c8c3b7">3-axis dock FSM (12/64 safe states), 11-hazard STPA</text>
+  <text x="42" y="777" class="sans" font-size="12" fill="#9a958a">checks &amp; extract probes (1:N joins, 103/105/124) fail closed.</text>
+  <rect x="458" y="702" width="414" height="86" rx="7" fill="#151821" stroke="#8fb8a8" stroke-opacity="0.30" stroke-width="1"/>
+  <rect x="458" y="702" width="3.5" height="86" rx="2" fill="#8fb8a8"/>
+  <text x="472" y="721" class="mono" font-size="9.5" font-weight="700" fill="#8fb8a8" letter-spacing="0.6">VACCINE 04 · DETERMINISTIC ENVELOPE</text>
+  <text x="472" y="742" class="sans" font-size="15" font-weight="800" fill="#eee9de">Isolate Read/Write &amp; AI Math</text>
+  <text x="472" y="761" class="sans" font-size="12" fill="#c8c3b7">Gate indirect inputs; zero-LLM financial math; stage</text>
+  <text x="472" y="777" class="sans" font-size="12" fill="#9a958a">every ERP write in DRAFT (HMAC-SHA256, 900s TTL) + rollback.</text>
+</svg>

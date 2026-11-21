@@ -1,156 +1,66 @@
-# Marcos Stipicich
-### Supply Chain & Operations × Deployment Strategy
+<p align="center">
+  <a href="https://esstipi-debug.github.io/landpage/proof/#decision-card">
+    <img src="assets/deployment-doctrine-fan.svg" alt="Marcos Stipicich: Supply Chain & Operations × Deployment Strategist — Giant Doctrine Fan and Pre-Cutover Adversarial Vaccines" width="100%">
+  </a>
+</p>
 
-Author of *The Deployment Chasm*.
+<p align="center">
+  <a href="https://esstipi-debug.github.io/landpage/proof/#decision-card"><strong>Live Decision Card</strong></a> ·
+  <a href="demos/which-record-lies"><strong>Re-runnable Audit (95,824 Orders)</strong></a> ·
+  <a href="https://github.com/esstipi-debug/mellon"><strong>MIT Dock Guardrail Kit</strong></a> ·
+  <a href="https://esstipi-debug.github.io/landpage/the-deployment-chasm/"><strong>The Deployment Chasm (Sample)</strong></a> ·
+  <a href="https://esstipi-debug.github.io/landpage/"><strong>Services &amp; Field Notes</strong></a> ·
+  <a href="https://www.linkedin.com/in/marcos-stipicich"><strong>LinkedIn</strong></a>
+</p>
 
-> *"In kind environments, where rules are fixed and feedback is immediate, machines win. In wicked environments—where patterns are messy, rules are unwritten, and human incentives collide—breadth with deep roots wins."*  
-> — Adapted from David Epstein (*Range*) and frontline practice.
-
-I operate at the intersection of physical operations, deterministic systems architecture, and unit economics.
-
----
-
-## Division of Labor: Human Judgment, Deterministic Contracts, and AI Acceleration
-
-Commodity domain knowledge is no longer a moat—a language model can summarize a textbook or draft boilerplate code in seconds. In enterprise deployments, results depend on a strict separation between **what human judgment diagnoses**, **what deterministic code computes**, and **what AI accelerates**:
-
-1. **System-Wide Causal Diagnosis (100% Human-Owned):** Learning to program in `C` before spending 13 years in supply chain and operations wired me to read a business as a single physical memory space: warehouse bins are memory addresses, lead times are bus latency, a stockout is a null pointer, and excess inventory from unaligned sales campaigns is a working-capital memory leak. I walk the floor first to find where broken incentives or cross-silo blindness corrupt the data before any model reads it.
-2. **Deterministic Mathematical Boundaries (100% Code-Owned):** In the systems I build, probabilistic models never touch financial arithmetic or write directly to an ERP. Every number is computed by deterministic code, and every writeback is staged in `DRAFT` behind an HMAC-signed approval gate with a verified rollback path.
-3. **AI as an Execution Compiler & Adversarial Auditor:** I use AI coding agents as high-speed compilers to draft bilingual specifications, accelerate implementation across Python, TypeScript, and SQL, and run adversarial review subagents (such as `.claude/agents/el-carnicero.md` in Holy Oly) that audit my own diffs against domain invariants before shipping. The floor discovery, the causal thesis, and the accountability for the result remain 100% mine.
+Most operational AI and enterprise system rollouts test only the clean workflow, then stall on the live shift before Year-1 renewal (*pilot purgatory* and *onboarding churn*). Before cutover, I walk the shift, **cut routine screen friction** so compliance beats the workaround, **stress-test rules, permissions, and KPIs for one-step shortcuts**, and stage every ERP write in `DRAFT` behind deterministic math and rollback.
 
 ---
 
-## From the Sheep Ranch to Enterprise Cutovers
+## Checkable Proof & Pre-Cutover Guardrails
 
-* **Reading Weak Signals in the Field:** Raised on an extensive sheep ranch in Patagonia, where my father's rule was simple: *reading is worth nothing if you can't see it on a working day*. Learning early to read subtle signals—wind shifts, pasture conditions, animal behavior—trained the exact habit I use today when walking a distribution center on the night shift to spot why a new system is being bypassed before the KPI shows it.
-* **Respect for the Floor:** Sharing the table and the shearing sheds with frontline workers taught me that the operator on the floor holds practical truths the executive manual ignores. Authority is earned by treating the operator as a peer and designing workflows where the safest rule is also the fastest path on a live shift.
-* **Cross-Silo Translation:** Fluent in Spanish and English, translating directly between the three rooms that rarely speak the same language: the warehouse floor, the engineering team, and the CFO.
-
----
-
-## Operating Methodology: Floor Discovery to Sustained Adoption
-
-Enterprise AI and ERP projects rarely fail in the algorithm; they fail at the boundary between the transaction record and the physical floor.
-
-```mermaid
-flowchart LR
-    subgraph FLOOR["1. Floor & Record Discovery"]
-        F1["Walk live shifts (including night shifts) to map undocumented workarounds"]
-        F2["Audit the 5-column event log against physical stock and SQL assertions"]
-        F3["Identify perverse KPIs and status threats that drive silent boycotts"]
-    end
-
-    subgraph DEPLOY["2. Deterministic Guardrails & Adoption"]
-        D1["Isolate silent data bugs (1:N join fanouts, un-netted transit, quarantine)"]
-        D2["Stage recommendations in DRAFT: Engine vs. Operator vs. Status Quo"]
-        D3["Stay through hypercare and verify sustained adoption at Day 90"]
-    end
-
-    FLOOR -->|Verified Ground Truth| DEPLOY
-```
-
-| Discovery & Deployment Step | Operational Mechanism | Practical Supply Chain & ERP Translation |
+| Instrument | What It Guards | Verified Scope & Link |
 | :--- | :--- | :--- |
-| **1. Walk the Live Shift** | Observe real constraints before trusting documentation. | Inspect receiving docks, RF scanning habits, and parallel spreadsheets in person. |
-| **2. Audit the Incentive** | Separate software bugs from behavior manufactured by KPIs. | Trace mixed, short, and damaged orders back to flawed per-operator volume bonuses; replace with zero-complaint and response-time metrics. |
-| **3. Probe Silent Data Corruption** | Verify whether the ERP record lies before feeding it to an agent. | Catch `1:N` PO-schedule join fanouts (`EKPO/EKET`), un-netted in-transit stock, and quarantined dock receipts (`103/105/124`). |
-| **4. Protect Operator Authority** | Prevent defensive boycotts by keeping the human in command of the signature. | Present counterfactual cards (*Engine vs. Operator's Play vs. Status Quo*) staged in `DRAFT` rather than imposing black-box overrides. |
-| **5. Stay Until Shortcuts Die** | Measure success by what the crew runs after handoff. | Train operators on the floor and stay through hypercare until parallel sheets disappear (`-20%` order processing time after a 50,000+ SKU WMS cutover). |
+| **Deterministic Operational & Decision Engine** | Zero-LLM financial math, 2-hop book-graph citation gates, Campbell/bypass detectors, 14 netting probes, and `DRAFT` PO staging (`HMAC-SHA256`, `900s` TTL, rollback). | **10,756 passing tests** (commit `a48ef3a`, private repo; 60 capabilities, 39-tool MCP) · **[Try the live card](https://esstipi-debug.github.io/landpage/proof/#decision-card)** |
+| **Which Record Lies? (Level-0 Triage)** | Separates warehouse/carrier blame from status-log drift on public `Olist` marketplace data before touching operations. | **68 tests** · **95,824 delivered orders** & **2,708 claims** (**56.9% / 1,542** pre-delivery; **8 of 413** sellers >99% Poisson) · **[Code & tests](demos/which-record-lies)** |
+| **Receiving & Dock State-Machine Kit** | 3-axis inbound dock FSM (**12 of 64** states safe), physical stock isolation before release, and explicit break-glass logging. | **1,141 passing tests** (commit `dfea27d`, MIT licence) · **[Open-source repo](https://github.com/esstipi-debug/mellon)** |
+| **Field-Audit & STPA Pre-Flight Kit** | 5-column event-log probes (`1:N` PO join fanouts, unbalanced `103/105/124` stock, negative balances) + Diff-in-Diff, EVPI, `CPVT`, and `pass^k`. | **1,187 passing tests** + 11-hazard MIT STAMP/STPA write-back spec · **[Evidence map](https://esstipi-debug.github.io/landpage/proof/#evidence-map)** |
+| **Periodization Engine & Adoption Testbed** | TypeScript/PostgreSQL monorepo (`~44.8k` LOC, `34` pure modules, audited with an internal adversarial diff-review agent). | **1,332 unit + 31 integration tests** · Postmortem: an unvalidated model estimate on what an expert judged by eye can still trigger refusal if authority threats go unaddressed. |
 
 ---
 
-## Field Notes & Published Papers
+## Published Doctrine
 
-### 1. [The Smith and the Tailor](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-smith-and-the-tailor.pdf) *(10 pages · PDF)*
-**Why many deployments are cut before anyone measures the floor,** what the habit costs once the deployer leaves, and two rules a CEO can set before kickoff.
-* **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-smith-and-the-tailor.pdf)** · **[View in repository](papers/the-smith-and-the-tailor.pdf)**
+* **[The Deployment Chasm](https://esstipi-debug.github.io/landpage/the-deployment-chasm/)** *(Manuscript · 551 pp. · 5 appendices · 130 sources · 1,548 source-graded claims)* — Why systems that pass the plan fail on the shift, from warehouse cutovers and ERP rollouts to operational AI.
+* **Flagship Executive Notes:** **[The Smith and the Tailor](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-smith-and-the-tailor.pdf)** *(CEO · measure the floor before cutting code; Day-90 check)* · **[Put the Toll on the Bridge](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/put-the-toll-on-the-bridge.pdf)** / **[ES](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/pone-el-peaje-en-el-puente.pdf)** *(COO · cut routine friction; guard only costly errors)* · **[Nobody Pays for Being Wrong](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/nobody-pays-for-being-wrong.pdf)** *(Go-Live · pre-override accountability)*.
 
-### 2. [Nobody Pays for Being Wrong](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/nobody-pays-for-being-wrong.pdf) *(27 pages · PDF)*
-**A bestiary of the go-live:** why obeying the system when it is wrong and dodging it on the night shift answer the exact same incentive rule—and how making someone answer for the decision before the override fixes both.
-* **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/nobody-pays-for-being-wrong.pdf)** · **[View in repository](papers/nobody-pays-for-being-wrong.pdf)**
+<details>
+<summary><strong>All 11 C-Suite Field Notes (CEO · COO · CFO — Direct PDFs)</strong></summary>
 
-### 3. [The Shortcut Is Not a Lapse](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-shortcut-is-not-a-lapse.pdf) *(8 pages · PDF)*
-**Why dented units ship,** and three questions a COO can ask where the record is written.
-* **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-shortcut-is-not-a-lapse.pdf)** · **[View in repository](papers/the-shortcut-is-not-a-lapse.pdf)**
+<br>
 
-### 4. [The Damage Has No Name](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-damage-has-no-name.pdf) *(8 pages · PDF)*
-**Why the fastest driver on the report can be the most expensive one in the ledger,** and how a CFO can trace three lines of damage to a name.
-* **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-damage-has-no-name.pdf)** · **[View in repository](papers/the-damage-has-no-name.pdf)**
+| Reader | Field Note (PDF) | Operational Seam Answered |
+| :--- | :--- | :--- |
+| **CEO** | **[The Smith and the Tailor](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-smith-and-the-tailor.pdf)** *(10 pp.)* · [repo](papers/the-smith-and-the-tailor.pdf) | Why pre-cut rollouts stall after handoff, and two rules to set before kickoff. |
+| **CEO / COO** | **[Nobody Pays for Being Wrong](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/nobody-pays-for-being-wrong.pdf)** *(27 pp.)* · [repo](papers/nobody-pays-for-being-wrong.pdf) | Why blind obedience and night-shift bypasses follow one incentive rule, and how pre-override reasons fix both. |
+| **CEO** | **[Who Is Allowed to Be Right?](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/who-is-allowed-to-be-right.pdf)** *(8 pp.)* · [repo](papers/who-is-allowed-to-be-right.pdf) | Why the operator who sees a broken rule after go-live often lacks authority to stop it. |
+| **CEO** | **[Use It or Lose It](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/use-it-or-lose-it.pdf)** *(8 pp.)* · [repo](papers/use-it-or-lose-it.pdf) | Why fixed-expiry budgets manufacture last-week rushes and downstream operational waste. |
+| **COO** | **[Put the Toll on the Bridge](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/put-the-toll-on-the-bridge.pdf)** *(10 pp.)* · [repo](papers/put-the-toll-on-the-bridge.pdf) · **[ES](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/pone-el-peaje-en-el-puente.pdf)** | Why guarding a costly mistake earns its place while repeating it on every line teaches crews to bypass. |
+| **COO** | **[Who the Form Is For](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/who-the-form-is-for.pdf)** *(9 pp.)* · [repo](papers/who-the-form-is-for.pdf) | Why auditor-first quality forms teach the shift to fill records rather than use them. |
+| **COO** | **[The Shortcut Is Not a Lapse](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-shortcut-is-not-a-lapse.pdf)** *(8 pp.)* · [repo](papers/the-shortcut-is-not-a-lapse.pdf) | Why dented units ship under volume pressure, and three checks where the record is written. |
+| **COO** | **[When Exceptions Outrun the Desk](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/when-exceptions-outrun-the-desk.pdf)** *(8 pp.)* · [repo](papers/when-exceptions-outrun-the-desk.pdf) | Why uncleared exceptions leave the procedure, and four weekly drift indicators. |
+| **COO** | **[The Tow the System Calls Idle](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-tow-the-system-calls-idle.pdf)** *(8 pp.)* · [repo](papers/the-tow-the-system-calls-idle.pdf) | Why uncategorized work minutes get charged to operators as idle time. |
+| **CFO** | **[The Damage Has No Name](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-damage-has-no-name.pdf)** *(8 pp.)* · [repo](papers/the-damage-has-no-name.pdf) | Why the fastest driver on the dispatch report can be the costliest line in the ledger. |
+| **CFO** | **[A Hundred Eyes, One Percent](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/a-hundred-eyes-one-percent.pdf)** *(9 pp.)* · [repo](papers/a-hundred-eyes-one-percent.pdf) | Why human sign-off weakens as automation improves, and how to test the control rather than the signature. |
 
-### 5. [When Exceptions Outrun the Desk](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/when-exceptions-outrun-the-desk.pdf) *(8 pages · PDF)*
-**Why exceptions the desk cannot clear leave the procedure,** and four numbers a COO can watch each week before the record drifts.
-* **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/when-exceptions-outrun-the-desk.pdf)** · **[View in repository](papers/when-exceptions-outrun-the-desk.pdf)**
-
-### 6. [The Tow the System Calls Idle](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-tow-the-system-calls-idle.pdf) *(8 pages · PDF)*
-**Why minutes the time standard has no category for are charged to the operator,** and five steps a COO can take to let the floor contest them.
-* **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/the-tow-the-system-calls-idle.pdf)** · **[View in repository](papers/the-tow-the-system-calls-idle.pdf)**
-
-### 7. [A Hundred Eyes, One Percent](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/a-hundred-eyes-one-percent.pdf) *(9 pages · PDF)*
-**Why a human approval can get weaker as the system it checks gets better,** and how a CFO can test the control, not the signature, the way airports test their screeners.
-* **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/a-hundred-eyes-one-percent.pdf)** · **[View in repository](papers/a-hundred-eyes-one-percent.pdf)**
-
-### 8. [Use It or Lose It](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/use-it-or-lose-it.pdf) *(8 pages · PDF)*
-**Why a budget that expires on a fixed date pays for a rush in its last week,** who carries the bill, and the rule a CEO can change.
-* **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/use-it-or-lose-it.pdf)** · **[View in repository](papers/use-it-or-lose-it.pdf)**
-
-### 9. [Who Is Allowed to Be Right?](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/who-is-allowed-to-be-right.pdf) *(8 pages · PDF)*
-**Why the person who sees a rule fail after go-live may not be the one who can stop it,** and how a CEO can measure the gap.
-* **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/who-is-allowed-to-be-right.pdf)** · **[View in repository](papers/who-is-allowed-to-be-right.pdf)**
-
-### 10. [Put the Toll on the Bridge](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/put-the-toll-on-the-bridge.pdf) *(10 pages · PDF)*
-**Why a step that guards an expensive mistake earns its place on a shift screen, and the same step on every line teaches the crew to get around it,** with four questions for the next screen a COO approves.
-* **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/put-the-toll-on-the-bridge.pdf)** · **[View in repository](papers/put-the-toll-on-the-bridge.pdf)**
-* **In Spanish:** [Poné el peaje en el puente](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/pone-el-peaje-en-el-puente.pdf) *(10 pages · PDF)*
-
-### 11. [Who the Form Is For](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/who-the-form-is-for.pdf) *(9 pages · PDF)*
-**Why a quality record built for the auditor teaches the floor to fill it rather than use it,** with four questions a COO can ask of the records an auditor reads.
-* **[Read the PDF](https://cdn.jsdelivr.net/gh/esstipi-debug/esstipi-debug@main/papers/who-the-form-is-for.pdf)** · **[View in repository](papers/who-the-form-is-for.pdf)**
+</details>
 
 ---
 
-## Reproducible Audit Demo: Which Record Lies?
+## Field Track Record & Scope Boundary
 
-### [Which Record Lies?](demos/which-record-lies) *(Python · 68 automated tests)*
-**When a customer says "not received" and the system says "delivered", which record is wrong?** A forensic triage on 95,824 delivered orders from the Brazilian Olist marketplace dataset: **57% of "not received" claims were written on or before the recorded delivery day**, so they were late orders, not suspect customers. The remaining post-delivery conflicts are evaluated per seller against a 99% Poisson quantile threshold.
-* **[Code, tests, and README](demos/which-record-lies)** · The dataset is not redistributed; the README lists the files used and their licence (CC BY-NC-SA 4.0).
-
----
-
-## Core Operational Systems & Prototypes
-
-*(Diagnostic engines, open-source field toolkits, and reference architectures built to enforce deterministic guardrails and adoption mechanics.)*
-
-### 1. [Kern](https://github.com/esstipi-debug/kern) & `nosilo_core` — Deterministic SCM Engine, Level-1 Decision Cockpit & MCP Server
-Analytical engine and pre-ERP control plane in Python (**10,756 passing tests**, 0 failing, on a clean install at commit `a48ef3a`, private repository; 60 registered capabilities, and a 39-tool Anthropic MCP server).
-* **Anti-Hallucination Boundary:** LLMs interpret unstructured context; deterministic Python owns every financial and inventory calculation.
-* **Counterfactual Decision Cards (`src/decision_paths.py`):** Each decision card ranks the engine's paths alongside two more—**The Operator's Play (`operator:`)**, measured with the same engine and objectives, and **Do Nothing (`status_quo:`)**—scored on objectives such as working capital tied up, excess days of inventory, and margin at risk. A cost that could not be measured is never shown as zero.
-* **Level-1 Decision Cockpit (`webapp/cockpit.py`):** Takes a stock spreadsheet through four steps—ingest, data-quality mirror, an approval tray with undo, and a twin `.narvi.xlsx` workbook. Every number comes from the deterministic replenishment job; no language model in the loop.
-* **Fail-Closed Safe-Staging (`nosilo_core/writeback.py`):** Stages draft purchase orders in Odoo via XML-RPC (or twin `.narvi.xlsx` workbooks) with 900s TTLs, HMAC-SHA256 signatures, and exact rollback from originals captured before every write.
-* **Two-Run Metamorphic Netting Probe (`scripts/barrido_neteo.py`):** Runs each of Kern's 14 reorder emitters twice, with and without in-transit stock, to catch any emitter that fails to net it—without trusting field names.
-
-### 2. [Mellon](https://github.com/esstipi-debug/mellon) — Pre-Cutover Forensic Audit & Guardrail Kit
-Open-source field toolkit (MIT license, **1,141 passing tests**, 0 failing, at commit `89c01cb`; clean install, `git clone` + `pytest -q`, 14 Nov 2026) with Pydantic v2 state-machine contracts (`P1–P6` floor invariants), SQL forensic assertions for SAP S/4HANA (`ACDOCA/MSEG/EKPO/EKET`), and a self-contained interactive Decision Cockpit (`cockpit.html`).
-
-### 3. `Holy Oly` — Deterministic Periodization Engine & Builder-Side Adoption Case Study
-End-to-end TypeScript monorepo (`~44.8k` LOC across `packages/core`, Fastify 5 + Prisma 6 + PostgreSQL 16 API, and React 18 web app; **1,332 unit tests + 31 embedded-PostgreSQL integration tests**).
-* **Custom Domain Engines (`packages/core`, 34 pure I/O-free modules):** Encodes 24 macrocycles across 10 international weightlifting schools, a deterministic parser for multi-movement Olympic complexes (`(2 Snatch + 1 OHS) @ 80%`) anchored to the weakest component's 1RM, and a Central Nervous System load estimate the coach used to judge by eye.
-* **Editorial Safety & Missing-Data Guardrails:** Pure function `reinstantiableWeeks` guarantees re-periodization never overwrites athlete logs or `coachEdited` sessions; `acwrStateSafe` enforces that missing telemetry (`NaN -> 'none'`) never renders as a false green recovery state.
-* **Adversarial AI Review Subagent (`.claude/agents/el-carnicero.md`):** Custom review agent auditing diffs against a written domain rulebook across coach, athlete, and school lenses—credited in the engine's comments with catching a high-severity phase-sequencing bug (`phasePlan D13`).
-* **Deployment Lesson:** Built at a coach's request to remove manual spreadsheet drudgery while freeing him for his real in-person strength (spotting microsecond biomechanical faults on the platform). Seeing the finished engine compute what he used to estimate by eye triggered a defensive boycott (*"not all my athletes have smartphones"*), even though the engine left every one of his edits in his hands. Measuring exactly what an expert used to judge by eye can read as a threat.
-
----
-
-## Field Track Record
-
-* **Industrial Warehousing & WMS Cutover (AGCO Corporation, Melbourne, 2022–2024):** `Outbound Leader` through the full WMS transition at a **50,000+ SKU** distribution center with a 20-person team: shut down the legacy system (`3MWorks`) and brought up **Manhattan Associates**. Trained 23 operators, including RF scanning, and stayed on the floor through hypercare until manual shortcuts died (**order processing time fell 20%**).
-* **DTC & Wholesale P&L Ownership (2020–2022):** Directed the P&L of a **USD 30M** cross-border e-commerce and wholesale operation through **300% YoY growth**, aligning commercial demand with supply chain capacity and releasing roughly **USD 5M** in trapped inventory working capital.
-* **Multi-Site Logistics & Retail Planning (2013–2020):** Managed a **USD 15M** operating budget across 3 sites (~100 staff), led supply chain planning for **200+ retail stores** with 15 planners, and analyzed a **USD 100M** inventory position.
-
----
-
-### Coordinates
-
-* **Location:** Santiago, Chile (UTC−3/−4 · Full overlap with US & LatAm business hours)
-* **Field Notes & Services:** [esstipi-debug.github.io/landpage](https://esstipi-debug.github.io/landpage/)
-* **LinkedIn:** [linkedin.com/in/marcos-stipicich](https://www.linkedin.com/in/marcos-stipicich)
-* **Email:** [marcos.stipicic@gmail.com](mailto:marcos.stipicic@gmail.com)
+* **AGCO Corporation, Melbourne (Aug 2022 – Feb 2024):** `Outbound Leader` (desk & floor: picking, packing, forklift, carrier dispatch) through a **50,000+ SKU** WMS cutover (`3MWorks` → **Manhattan Associates**, **20-person team**, **23 operators** trained on RF); stayed through hypercare until the shortcuts died (**order processing time fell 20%**).
+* **Cross-Border DTC & Wholesale P&L (May 2020 – Jul 2022):** Owned a **USD 30M** P&L at **300% YoY growth**, aligning commercial demand with warehouse capacity to **free ~USD 5M in working capital**.
+* **Multi-Site Operations & Planning (Jun 2013 – Apr 2020):** **USD 15M** budget across **3 sites (~100 staff)**; **200+ retail stores** (**15 planners**, partly remote from Sydney across 14 hours); **USD 100M** inventory portfolio & network cycle counting; **~USD 2M** annual savings identified in an earlier WMS rollout. *(2013–2022 employers unnamed under confidentiality.)*
+* **Independent Consulting (Mar 2024 – Present; 7+ engagements since 2013):** Floor discovery, SII tax-flow mapping, and UAT setup on `Odoo ERP` + custom WMS (Santiago recycling operator); on a prior consulting walk, traced mixed, short, and damaged orders to a per-operator output KPI tied to a bonus and replaced it with zero complaints and response time.
+* **Scope Boundary & Coordinates:** Zero prior SAP or Oracle operating claims; no black-box math on financials; pre-cutover instruments, not commercial SaaS in client production (one software client to date). Based in **Santiago, Chile** (US/LatAm hours · open to travel & relocation · ES native, EN C1) · [esstipi-debug.github.io/landpage](https://esstipi-debug.github.io/landpage/) · [LinkedIn](https://www.linkedin.com/in/marcos-stipicich) · [marcos.stipicic@gmail.com](mailto:marcos.stipicic@gmail.com)
