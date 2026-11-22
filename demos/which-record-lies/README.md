@@ -48,7 +48,7 @@ python which_record_lies.py path/to/olist
 python -m pytest
 ```
 
-Options: `--alpha 0.01` (flag level) and `--min-orders 50` (sellers with fewer orders are not assessed). Tested with Python 3.13; 68 tests of the triage on synthetic data (`test_which_record_lies.py`), no Olist files needed. The pre-registered audit below adds 38 more (`test_n0.py`, `test_gestalt_b.py`).
+Options: `--alpha 0.01` (flag level) and `--min-orders 50` (sellers with fewer orders are not assessed). Tested with Python 3.13; 68 tests of the triage on synthetic data (`test_which_record_lies.py`), no Olist files needed. The pre-registered audit below adds 38 more (`test_n0.py`, `test_gestalt_b.py`), and 3 more (`test_mutants.py`) catch the three one-line mutants that survived the run of 2026-11-21 (day vs timestamp, default alpha, base rate per seller).
 
 ## Pre-registered audit: before and after, in orders and BRL
 
